@@ -1,0 +1,4947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Registration Aide\n"
+"POT-Creation-Date: 2016-05-23 15:57-0500\n"
+"PO-Revision-Date: 2016-05-23 15:57-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: user-registration-aide.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/ura-bp.php:618
+msgid "User already exists.  Password inherited."
+msgstr "Пользователь уже существует. Пароль передается по наследству."
+
+#: classes/ura-bp.php:1334 classes/ura-bp.php:1374
+msgid "<strong>ERROR</strong>:"
+msgstr "на <strong>ошибка</strong>на:"
+
+#: classes/ura-bp.php:2058
+msgid ""
+"Your Email was Verified! Your Account Needs an Administrator Approval Before "
+"you can Login!"
+msgstr ""
+"Ваш E-mail была проверена! Ваш Учет потребностей в модерируются Перед тем, "
+"как войти!"
+
+#: classes/ura-bp.php:2060
+msgid ""
+"Your Email has Been Verified! Your Account has Been Approved by an "
+"Administrator! Your Account is now Active!"
+msgstr ""
+"Ваш E-mail была проверена! Ваш аккаунт был одобрен Администратором! Ваш "
+"аккаунт активен!"
+
+#: classes/ura-bp.php:2064
+msgid "Your Email has Been Verified! Your Account is now Active!"
+msgstr "Ваш E-mail была проверена! Ваш аккаунт активен!"
+
+#: classes/ura-dash-msgs.php:77
+msgid ""
+"You changed a data type to a type that requires options and do not have any "
+"options for it.</p><p>To use it properly please add some options <a href=\""
+msgstr ""
+"Изменения типа данных в тип, который требует параметры и не имеют каких-либо "
+"вариантов для него.<p><p>Чтобы использовать это правильно пожалуйста добавить "
+"некоторые опции<a href=\" href=\"\"></a href=\">"
+
+#: classes/ura-dash-msgs.php:212
+msgid "For More Help and Instructions Visit Our Plugin Page:"
+msgstr ""
+"Для получения дополнительной справки и инструкций посетите нашу страницу "
+"плагина:"
+
+#: classes/ura-dash-msgs.php:213
+msgid ""
+"<a href=\"http://creative-software-design-solutions.com/wordpress-user-"
+"registration-aide-force-add-new-user-fields-on-registration-form/\" target="
+"\"blank\">User Registration Aide Home Page"
+msgstr ""
+"<a href=\"http://creative-software-design-solutions.com/wordpress-user-"
+"registration-aide-force-add-new-user-fields-on-registration-form/\" target="
+"\"blank\">Пользователя регистрация памятной Домашняя страница</a>"
+
+#: classes/ura-dash-msgs.php:220
+msgid "User Registration Aide Help Tab"
+msgstr "Вкладку Справка помощник регистрации пользователя"
+
+#: classes/ura-dash-msgs.php:221
+msgid "User Registration Aide Help"
+msgstr "Помощь помощник регистрации пользователя"
+
+#: classes/ura-dash-msgs.php:243
+msgid "User Registration Aide: Input New Fields Here"
+msgstr "Помощник регистрации пользователя: Новые поля ввода здесь"
+
+#: classes/ura-dash-msgs.php:244
+msgid "Change Dashboard Widget Settings and Add New Fields On This Page"
+msgstr ""
+"Изменить настройки приборной панели виджетов и добавить новые поля на этой "
+"странице."
+
+#: classes/ura-dash-msgs.php:248
+msgid "User Registration Aide: Edit New Fields Here"
+msgstr "Помощник регистрации пользователя: Редактировать новые поля здесь"
+
+#: classes/ura-dash-msgs.php:249
+msgid ""
+"Edit Custom Registration Form Fields, Delete Fields and Edit New Fields "
+"Options On This Page"
+msgstr ""
+"Изменить поля формы регистрации, удалять поля и редактировать новые поля "
+"параметры на этой странице"
+
+#: classes/ura-dash-msgs.php:253
+msgid "User Registration Aide: Edit Registration Form Options Here"
+msgstr ""
+"Помощник регистрации пользователя: Редактировать параметры формы регистрации "
+"здесь"
+
+#: classes/ura-dash-msgs.php:254
+msgid ""
+"Change Password Strength Requirements, Custom Redirects, Agreement Message, "
+"Anti_Spam Math Problem & Profile Page Title Options On This Page"
+msgstr ""
+"Изменить требования к прочности пароля, пользовательские перенаправлений, "
+"соглашение сообщение, Anti_Spam математический & профиль название страницы "
+"параметры на этой странице"
+
+#: classes/ura-dash-msgs.php:258
+msgid "User Registration Aide: Edit Registration Form Messages & CSS Here"
+msgstr ""
+"Помощник регистрации пользователя: Редактирование сообщений формы регистрации "
+"& CSS здесь"
+
+#: classes/ura-dash-msgs.php:259
+msgid "Change Registration Form Messages and CSS Options On This Page"
+msgstr "Изменения регистрации форму сообщения и параметры CSS на этой странице."
+
+#: classes/ura-dash-msgs.php:263
+msgid "User Registration Aide: Edit Custom Option Settings Here"
+msgstr ""
+"Помощник регистрации пользователя: Измените пользовательские параметры здесь"
+
+#: classes/ura-dash-msgs.php:264
+msgid ""
+"Update Password Change Options, User Display Name & Plugin Style Options On "
+"This Page"
+msgstr ""
+"Обновить параметры изменения пароля, отображаемое имя пользователя & плагин "
+"стиль параметры на этой странице"
+
+#: classes/ura-dash-msgs.php:267
+msgid ""
+"For Most Help Options Just Hover Over the Input Box Area or Selection You "
+"Wish to Make"
+msgstr ""
+"Для большинства параметров справки просто наведите области поле для ввода или "
+"выбора вы хотите сделать"
+
+#: classes/ura-dash-msgs.php:268
+msgid ""
+"A Help Box Pop-up Will Appear And Give You More Specific Instructions For "
+"That Specific Field Selection Or Option"
+msgstr ""
+"Появится всплывающее окно справки и дать вам более конкретные инструкции для "
+"выбора конкретного поля или параметра"
+
+#: classes/ura-dash-msgs.php:269
+msgid ""
+"If You Still Cannot Find The Help You Need See Sidebar For Link to Plugin "
+"Homepage"
+msgstr ""
+"Если вы по-прежнему не может найти помощь вам нужна врезке для ссылки на "
+"домашнюю страницу плагина"
+
+#: classes/user-reg-aide-actions.php:207
+#, php-format
+msgid "You have been approved to access %s"
+msgstr "Вам одобрен доступ к %s"
+
+#: classes/user-reg-aide-actions.php:209 classes/user-reg-aide-actions.php:227
+#: e-mails.php:37 e-mails.php:74 e-mails.php:92
+#, php-format
+msgid "Username: %s"
+msgstr "Логин: %s"
+
+#: classes/user-reg-aide-actions.php:210 e-mails.php:75
+#, php-format
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: classes/user-reg-aide-actions.php:211
+#, php-format
+msgid "Login URL: %s"
+msgstr "Ссылка входа: %s"
+
+#: classes/user-reg-aide-actions.php:229
+#, php-format
+msgid ""
+"To set your password and validate your new user account, visit the following "
+"address: %s"
+msgstr ""
+"Чтобы установить пароль и подтвердить новую учетную запись пользователя, "
+"посетите следующий адрес:%s"
+
+#: classes/user-reg-aide-actions.php:233
+#, php-format
+msgid "[%s] Registration Approved"
+msgstr "[%s] Регистрация одобрена"
+
+#: classes/user-reg-aide-actions.php:259 classes/user-reg-aide-actions.php:278
+#: classes/user-reg-aide-actions.php:280
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: classes/user-reg-aide-options.php:88
+msgid ""
+"You can use the password you entered here to log in right away, and for your "
+"reference, your registration details will be emailed after signup"
+msgstr ""
+"Вы можете использовать пароль, который вы ввели здесь, чтобы войти сразу, и "
+"для вашей справки, ваши регистрационные данные будут высланы после регистрации"
+
+#: classes/user-reg-aide-options.php:89
+msgid ""
+"I have read and understand and agree to the terms and conditions of the "
+"guidelines/agreement policy required for this website provided in the link "
+"below"
+msgstr ""
+"Я прочитал и понимаю и согласен с условиями политики руководящих принципов / "
+"соглашения, необходимого для данного веб-сайта, представленной в ссылке ниже"
+
+#: classes/user-reg-aide-options.php:90
+msgid "No password Entered!"
+msgstr "Пароль не введен!"
+
+#: classes/user-reg-aide-options.php:91
+msgid "Password Entered is too Short!"
+msgstr "Введенный пароль слишком короткий!"
+
+#: classes/user-reg-aide-options.php:92
+msgid "Password Entered is Bad, Too Weak"
+msgstr "Введенный пароль плохо, слишком слаб"
+
+#: classes/user-reg-aide-options.php:93
+msgid "Password Entered is fairly tough and is good to accept"
+msgstr "Введенный пароль является довольно жестким и хорошо принять"
+
+#: classes/user-reg-aide-options.php:94
+msgid "Password Entered is very strong!"
+msgstr "Введенный пароль является очень сильным!"
+
+#: classes/user-reg-aide-options.php:95
+msgid "Password Entered does not match Password Confirm! Try Again Please!"
+msgstr ""
+"Введенный пароль не соответствует Пароль Подтверждение! Пожалуйста, "
+"попробуйте еще раз!"
+
+#: classes/user-reg-aide-options.php:123
+msgid "Agreement Policy"
+msgstr "Договор о политике"
+
+#: classes/user-reg-aide-options.php:131 classes/user-reg-aide-options.php:558
+msgid "Welcome to our site! Please login for our site here!"
+msgstr "Добро пожаловать на наш сайт! Пожалуйста, войдите на нашем сайте здесь!"
+
+#: classes/user-reg-aide-options.php:132 classes/user-reg-aide-options.php:563
+msgid "Welcome to our site! Please register for our site here!"
+msgstr ""
+"Добро пожаловать на наш сайт! Пожалуйста, зарегистрируйтесь для нашего сайта "
+"здесь!"
+
+#: classes/user-reg-aide-options.php:133
+msgid "Extra Login messages"
+msgstr "Дополнительные сообщения Вход"
+
+#: classes/user-reg-aide-options.php:134
+msgid ""
+"Please enter your username(login name) or email address here. You will then "
+"soon receive a link to create a new password via email!"
+msgstr ""
+"Пожалуйста, введите свое имя пользователя (имя) Логин или адрес электронной "
+"почты здесь. Затем вы скоро получите ссылку, чтобы создать новый пароль по "
+"электронной почте!"
+
+#: classes/user-reg-aide-options.php:135 classes/user-reg-aide-options.php:568
+msgid "Thank you for visiting our site! You are now logged out"
+msgstr "Спасибо Вам что посетили наш сайт! Вы вышли из"
+
+#: classes/user-reg-aide-options.php:136 classes/user-reg-aide-options.php:574
+msgid "Thank you for registering for our site! You account is now active!"
+msgstr "Благодарим Вас за регистрацию на нашем сайте! Вы аккаунт активен!"
+
+#: classes/user-reg-aide-options.php:137
+msgid ""
+"Enter your new password here and confirm it, and enter your correct security "
+"question and answer, if you don't have one, just ignore that step for now and "
+"after you complete this, go to your profile and add a security question and "
+"answer to your profile to improve your personal security as well as our "
+"websites! Thank you!"
+msgstr ""
+"Введите новый пароль здесь и подтвердите его, и введите правильный секретный "
+"вопрос и ответ, если вы не один, просто игнорировать этот шаг сейчас и после "
+"завершения этого перейдите к своему профилю и добавить секретный вопрос и "
+"ответ на ваш профиль, чтобы улучшить вашу личную безопасность, а также наши "
+"веб-сайты! Спасибо!"
+
+#: classes/user-reg-aide-options.php:138
+msgid "Enter your new password below and confirm it, Thank you!"
+msgstr "Введите новый пароль и подтвердите его, спасибо!"
+
+#: classes/user-reg-aide-options.php:139
+msgid ""
+"You may now check your email for a confirmation link to reset your password!"
+msgstr ""
+"Теперь вы можете проверить свою электронную почту на ссылку для "
+"подтверждения, чтобы сбросить пароль!"
+
+#: classes/user-reg-aide-options.php:140
+msgid ""
+"You have successfully reset your password! You may now login again with your "
+"new password!"
+msgstr ""
+"Вы успешно восстановить свой пароль! Теперь вы можете войти снова с новым "
+"паролем!"
+
+#: classes/user-reg-aide-options.php:141
+msgid ""
+"You have successfully changed your password! You may now login again with "
+"your new password!"
+msgstr ""
+"Вы успешно изменили ваш пароль! Теперь вы можете войти снова с новым паролем!"
+
+#: classes/user-reg-aide-options.php:145
+msgid ""
+"You haven't added your security question and security answer yet, please do "
+"so on your profile page after you have finished resetting your password!"
+msgstr ""
+"Вы не добавили свой секретный вопрос и ответ безопасности все же, пожалуйста, "
+"сделайте это на странице вашего профиля после того, как вы закончили сброс "
+"пароля!"
+
+#: classes/user-reg-aide-options.php:146
+msgid ""
+"You haven't added your security question and security answer yet, please do "
+"so on your profile page to improve your personal security!"
+msgstr ""
+"Вы не добавили свой секретный вопрос и ответ безопасности все же, пожалуйста, "
+"сделайте это на странице вашего профиля, чтобы улучшить вашу личную "
+"безопасность!"
+
+#: classes/user-reg-aide-options.php:147
+msgid ""
+"You haven't added your security question yet, please do so on your profile "
+"page to improve your personal security!"
+msgstr ""
+"Вы не добавили свой секретный вопрос еще, пожалуйста, сделайте это на "
+"странице вашего профиля, чтобы улучшить вашу личную безопасность!"
+
+#: classes/user-reg-aide-options.php:148
+msgid ""
+"You need to enter your security answer for your security question otherwise "
+"you won't be able to reset your password without an administrators help!"
+msgstr ""
+"Вам необходимо ввести свой секретный вопрос для вашего вопроса безопасности в "
+"противном случае вы не сможете восстановить свой пароль без помощи "
+"администраторов!"
+
+#: classes/user-reg-aide-options.php:157
+msgid "Welcome to our site! Your account is now activated!"
+msgstr "Добро пожаловать на наш сайт! Ваш аккаунт активирован!"
+
+#: classes/user-reg-aide-options.php:160
+msgid ""
+"Your user account is now activated for our site!, you may proceed and login "
+"now!"
+msgstr ""
+"Ваша учетная запись пользователя активирована для нашего сайта !, вы можете "
+"продолжить и авторизоваться на сайте прямо сейчас!"
+
+#: classes/user-reg-aide-options.php:163
+msgid ""
+"Before you can start using this site and your new username, you must activate "
+"it by checking your email inbox and clocking on the activation link givern. "
+"*** If you do not activate your user account within two days, you will have "
+"to sign up again! ***"
+msgstr ""
+"Перед тем, как начать использовать этот сайт и новое имя пользователя, вы "
+"должны активировать его, проверяя свой почтовый ящик и синхронизации на "
+"givern ссылку активации. *** Если вы не активируете свою учетную запись "
+"пользователя в течение двух дней, вам придется снова зарегистрироваться! ***"
+
+#: classes/user-reg-aide-options.php:164
+msgid "Thank you for registering with us, Here are your new login credentials: "
+msgstr ""
+"Благодарим Вас за регистрацию с нами, вот ваши новые учетные данные для входа:"
+
+#: classes/user-reg-aide-options.php:170 views/ura-profile-view.php:55
+msgid "User Registration Aide Additional Fields"
+msgstr "Регистрация пользователя Памятные Дополнительные поля"
+
+#: classes/user-reg-aide-options.php:173
+#: classes/user-reg-aide-xwrd-functions.php:348
+#: models/ura-dashWidget-model.php:443
+msgid "Username"
+msgstr "Логин"
+
+#: classes/user-reg-aide-options.php:176 models/ura-dashWidget-model.php:444
+msgid "Email"
+msgstr "Email"
+
+#: classes/user-reg-aide-options.php:179 classes/user-reg-aide-options.php:284
+#: classes/user-reg-aide-options.php:351 models/ura-dashWidget-model.php:447
+#: models/ura-display-name-model.php:129
+#: views/ura-registration-form-view.php:214
+#: views/ura-registration-form-view.php:257
+#: views/ura-registration-form-view.php:301
+msgid "First Name"
+msgstr "Имя"
+
+#: classes/user-reg-aide-options.php:182 classes/user-reg-aide-options.php:285
+#: classes/user-reg-aide-options.php:352 models/ura-dashWidget-model.php:448
+#: models/ura-display-name-model.php:130
+#: views/ura-registration-form-view.php:218
+#: views/ura-registration-form-view.php:261
+#: views/ura-registration-form-view.php:304
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: classes/user-reg-aide-options.php:185 models/ura-dashWidget-model.php:450
+msgid "Role"
+msgstr "Роль"
+
+#: classes/user-reg-aide-options.php:202
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: classes/user-reg-aide-options.php:230
+msgid ""
+"After you register, your request will be sent to the site administrator for "
+"approval. You will then receive an email with further instructions."
+msgstr ""
+"После регистрации, ваш запрос будет отправлен администратору сайта для "
+"утверждения. После этого вы получите электронное письмо с дальнейшими "
+"инструкциями."
+
+#: classes/user-reg-aide-options.php:231
+msgid ""
+"An email has been sent to the site administrator. The administrator will "
+"review the information that has been submitted and either approve or deny "
+"your request."
+msgstr ""
+"Письмо было отправлено администратору сайта. Администратор будет "
+"рассматривать информацию, который был представлен и либо утвердить, либо "
+"отклонить запрос."
+
+#: classes/user-reg-aide-options.php:232
+msgid ""
+"You will receive an email with instructions on what you will need to do next. "
+"Thanks for your patience."
+msgstr ""
+"Вы получите по электронной почте с инструкциями о том, что вам нужно будет "
+"делать дальше. Спасибо за ваше терпение."
+
+#: classes/user-reg-aide-options.php:286 classes/user-reg-aide-options.php:353
+#: models/ura-dashWidget-model.php:449 models/ura-display-name-model.php:128
+#: views/ura-registration-form-view.php:222
+#: views/ura-registration-form-view.php:265
+msgid "Nickname"
+msgstr "Никнейм"
+
+#: classes/user-reg-aide-options.php:287 classes/user-reg-aide-options.php:354
+#: models/ura-dashWidget-model.php:445 views/ura-registration-form-view.php:226
+#: views/ura-registration-form-view.php:269
+msgid "Website"
+msgstr "Сайт"
+
+#: classes/user-reg-aide-options.php:288 classes/user-reg-aide-options.php:355
+msgid "AIM"
+msgstr "AIM"
+
+#: classes/user-reg-aide-options.php:289 classes/user-reg-aide-options.php:356
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: classes/user-reg-aide-options.php:290 classes/user-reg-aide-options.php:357
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: classes/user-reg-aide-options.php:291 classes/user-reg-aide-options.php:358
+msgid "Biographical Info"
+msgstr "Биография"
+
+#: classes/user-reg-aide-options.php:292 classes/user-reg-aide-options.php:359
+#: classes/user-reg-aide-xwrd-functions.php:349
+#: views/ura-registration-form-view.php:38
+#: views/ura-registration-form-view.php:298
+msgid "Password"
+msgstr "Пароль"
+
+#: classes/user-reg-aide-xwrd-functions.php:253
+msgid "<b>ERROR</b>: Please Enter Your Username!"
+msgstr "<b>ОШИБКА:</b> Пожалуйста , введите Ваше имя пользователя!"
+
+#: classes/user-reg-aide-xwrd-functions.php:256
+msgid "<b>ERROR</b>: Username Does Not Exist!"
+msgstr "<b>ОШИБКА:</b> Имя пользователя не существует!"
+
+#: classes/user-reg-aide-xwrd-functions.php:260
+msgid "<b>ERROR</b>: Please Enter your Email"
+msgstr "<b>ОШИБКА:</b> Пожалуйста , введите свой ​​e - mail"
+
+#: classes/user-reg-aide-xwrd-functions.php:265
+msgid ""
+"<b>ERROR</b>: Email Associated With This Account And Email Entered Do Not "
+"Match!"
+msgstr ""
+"<b>ОШИБКА:</b> электронной почты , связанный с этой учетной записью и адресов "
+"электронной почты введенных кода не совпадают!"
+
+#: classes/user-reg-aide-xwrd-functions.php:270
+msgid ""
+"<b>ERROR</b>: NEW PASSWORD SAME AS OLD PASSWORD, PLEASE ENTER A DIFFERENT "
+"PASSWORD!"
+msgstr ""
+"<b>ОШИБКА:</b> НОВЫЙ ПАРОЛЬ ЖЕ КАК СТАРЫЙ ПАРОЛЬ, пожалуйста , введите свой ​​"
+"пароль!"
+
+#: classes/user-reg-aide-xwrd-functions.php:350
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: classes/user-reg-aide-xwrd-functions.php:351
+msgid "Log In"
+msgstr "Войти"
+
+#: classes/user-reg-aide-xwrd-functions.php:483
+msgid "<strong>ERROR</strong>: Please Enter Your Password!"
+msgstr "<strong>ОШИБКА</strong>: Пожалуйста введите пароль."
+
+#: classes/user-reg-aide-xwrd-functions.php:489
+msgid ""
+"<strong>ERROR</strong>: Username and Password are the Same, They Must be "
+"Different!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Имя пользователя и пароль те же, они должны быть "
+"разными!"
+
+#: classes/user-reg-aide-xwrd-functions.php:496
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Password length too short! Should be at least %d "
+"characters long!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Длина пароля слишком короткий! Должно быть по "
+"крайней мере %d символов!"
+
+#: classes/user-reg-aide-xwrd-functions.php:503
+#: models/ura-xwrd-strength-options-model.php:223
+msgid "<strong>ERROR</strong>: There is no number in your password!"
+msgstr "<strong>ОШИБКА:</strong> Там нет номера свой ​​пароль!"
+
+#: classes/user-reg-aide-xwrd-functions.php:510
+#: models/ura-xwrd-strength-options-model.php:230
+msgid "<strong>ERROR</strong>: Password missing lower case letter!"
+msgstr "<strong>ОШИБКА:</strong> Пароль отсутствует строчной буквы!"
+
+#: classes/user-reg-aide-xwrd-functions.php:517
+#: models/ura-xwrd-strength-options-model.php:237
+msgid "<strong>ERROR</strong>: Password missing upper case letter!"
+msgstr "<strong>ОШИБКА:</strong> Пароль отсутствует заглавную букву!"
+
+#: classes/user-reg-aide-xwrd-functions.php:524
+#: models/ura-xwrd-strength-options-model.php:244
+msgid "<strong>ERROR</strong>: Password missing symbol!"
+msgstr "<strong>ОШИБКА:</strong> Пароль отсутствует символ!"
+
+#: classes/user-reg-aide-xwrd-functions.php:561
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Please Change Your New Password! This Password "
+"Matches A Previous Password! You Cannot Use Duplicate Passwords for %d Times!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Пожалуйста , изменить свой ​​пароль! Этот пароль "
+"совпадает с предыдущим паролем! Вы не можете использовать повторяющиеся "
+"пароли для %d раз!"
+
+#: controllers/ura-custom-options-controller.php:31
+#: controllers/ura-edit-new-fields-controller.php:36
+#: controllers/ura-input-new-fields-controller.php:34
+msgid ""
+"You do not have permissions to modify this plugins settings, sorry, check "
+"with site administrator to resolve this issue please!"
+msgstr ""
+"У вас нет прав для редактирования этого плагины настройки, извините, "
+"проверьте с администратором сайта, чтобы решить эту проблему, пожалуйста!"
+
+#: controllers/ura-custom-options-controller.php:36
+msgid "User Registration Aide: Custom Options"
+msgstr "Регистрация пользователя Памятная: Пользовательские параметры"
+
+#: controllers/ura-custom-options-controller.php:37
+#: views/ura-xwrd-change-options-view.php:38
+msgid "Password Change Options:"
+msgstr "Пароль Изменить параметры:"
+
+#: controllers/ura-reg-form-msgs-controller.php:37
+#: controllers/ura-reg-form-options-controller.php:34
+msgid "User Registration Aide: Custom Registration Form Options"
+msgstr ""
+"Регистрация пользователя Памятная: Пользовательские Регистрационная форма "
+"Опции"
+
+#: controllers/ura-reg-form-msgs-controller.php:38
+msgid ""
+"Add Your Own Custom Message to Top and Bottom of Login & Registration Forms:"
+msgstr ""
+"Добавить свой собственный сообщение для верхней и нижней части Вход и "
+"регистрационные формы:"
+
+#: controllers/ura-reg-form-msgs-controller.php:71
+#: controllers/ura-reg-form-options-controller.php:79
+msgid ""
+"You do not have permissions to manage options for this plugin, sorry, please "
+"check with the site administrators to resolve this issue please!"
+msgstr ""
+"У вас нет разрешения на управление опции для этого плагина, извините, "
+"пожалуйста, свяжитесь с администратором сайта, чтобы решить эту проблему, "
+"пожалуйста!"
+
+#: controllers/ura-reg-form-options-controller.php:35
+msgid "Edit Your Own Custom Registration Form Options Here:"
+msgstr ""
+"Редактировать свои собственные пользовательские параметры Регистрационная "
+"форма Здесь:"
+
+#: controllers/ura-settings-controller.php:29 models/ura-menu-model.php:32
+msgid "Add New Fields"
+msgstr "добавить новые поля"
+
+#: controllers/ura-settings-controller.php:30 models/ura-menu-model.php:33
+#: models/ura-menu-model.php:436 models/ura-menu-model.php:527
+msgid "Edit New Fields"
+msgstr "Редактирование полей"
+
+#: controllers/ura-settings-controller.php:31 models/ura-menu-model.php:34
+#: models/ura-menu-model.php:437 models/ura-menu-model.php:483
+msgid "Registration Form Options"
+msgstr "Գրանցման կարգավորումներ"
+
+#: controllers/ura-settings-controller.php:32 models/ura-menu-model.php:35
+#: models/ura-menu-model.php:438 models/ura-menu-model.php:505
+msgid "Registration Form Messages & CSS Options"
+msgstr "Регистрационная форма сообщения и параметры CSS"
+
+#: controllers/ura-settings-controller.php:33 models/ura-menu-model.php:36
+#: models/ura-menu-model.php:439 models/ura-menu-model.php:550
+msgid "Custom Options"
+msgstr "Редактировать пользовательское меню"
+
+#: e-mails.php:36
+#, php-format
+msgid "New user registration on your site %s"
+msgstr "На вашем сайте %s зарегистрирован новый пользователь:"
+
+#: e-mails.php:38
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: e-mails.php:39
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Реєстрація нового користувача"
+
+#: e-mails.php:62
+#, php-format
+msgid "Thank you for registering with %s"
+msgstr "Благодарим за регистрацию на %s!"
+
+#: e-mails.php:65
+#, php-format
+msgid "Your new user registration is awaiting an Administrators approval at %s"
+msgstr ""
+"Ваша регистрация нового пользователя ожидает одобрение администраторов на%s"
+
+#: e-mails.php:66
+#, php-format
+msgid "Site URL: %s"
+msgstr "URL сайта:%s"
+
+#: e-mails.php:68
+#, php-format
+msgid "Here are your new login credentials for %s"
+msgstr "Вот ваши новые логин или пароль для%s"
+
+#: e-mails.php:71
+#, php-format
+msgid "[%s] Your Registration Awaiting Approval"
+msgstr "[%s] Ваша регистрация ожидает одобрения"
+
+#: e-mails.php:76
+#, php-format
+msgid "Login: %s"
+msgstr "Ссылка входа: %s"
+
+#: e-mails.php:94
+#, php-format
+msgid "To set your password, visit the following address: %s"
+msgstr "Чтобы установить пароль, посетите следующий адрес: %s"
+
+#: e-mails.php:98
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Ваш логин и пароль"
+
+#: helpers/ura-html.php:194 helpers/ura-html.php:240 helpers/ura-html.php:289
+#: helpers/ura-html.php:341 helpers/ura-html.php:543 helpers/ura-html.php:668
+#: helpers/ura-html.php:738 helpers/ura-html.php:817
+msgid "No Options for This Field at This Time!"
+msgstr "Нет Опции для этого поля в это время!"
+
+#: members/ura-members-admin.php:374 members/ura-members-admin.php:386
+#: members/ura-members-admin.php:397 members/ura-members-admin.php:408
+#: members/ura-members-admin.php:419
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: members/ura-members-admin.php:376 members/ura-members-admin.php:388
+#: members/ura-members-admin.php:399 members/ura-members-admin.php:410
+#: members/ura-members-admin.php:421 views/ura-registration-form-view.php:507
+msgid "Pending Approval"
+msgstr "В Ожидании Утверждения"
+
+#: members/ura-members-admin.php:378 members/ura-members-admin.php:390
+#: members/ura-members-admin.php:401 members/ura-members-admin.php:412
+#: members/ura-members-admin.php:423
+msgid "Pending Deletion"
+msgstr "Удаление отложено"
+
+#: members/ura-members-admin.php:381 members/ura-members-admin.php:393
+#: members/ura-members-admin.php:404 members/ura-members-admin.php:415
+#: members/ura-members-admin.php:426
+msgid "Pending Verification"
+msgstr "Ожидание проверки"
+
+#: members/ura-members-admin.php:509 members/ura-members-admin.php:699
+#: members/ura-pending-approval.php:906
+msgid "Users"
+msgstr "Пользователь"
+
+#: members/ura-members-admin.php:538
+msgctxt "Pending Accounts per page (screen options)"
+msgid "Pending Accounts"
+msgstr "Ожидающие Аккаунты"
+
+#: members/ura-members-admin.php:545
+msgid "Overview"
+msgstr "Общие сведения"
+
+#: members/ura-members-admin.php:547
+msgid "This is the administration screen for pending accounts on your site."
+msgstr ""
+"Это - экран администрирования для учетных записей на ожидании на Вашем сайте."
+
+#: members/ura-members-admin.php:548
+msgid ""
+"From the screen options, you can customize the displayed columns and the "
+"pagination of this screen."
+msgstr ""
+"Из опций экрана, вы можете настроить отображаемые столбцы и разбиение на "
+"страницы этого экрана."
+
+#: members/ura-members-admin.php:549
+msgid ""
+"You can reorder the list of your pending accounts by clicking on the "
+"Username, Email or Registered column headers."
+msgstr ""
+"Вы можете изменить порядок списка ожидающих счетов, нажав на имя "
+"пользователя, электронной почте или зарегистрированных заголовков столбцов."
+
+#: members/ura-members-admin.php:550
+msgid ""
+"Using the search form, you can find pending accounts more easily. The "
+"Username and Email fields will be included in the search."
+msgstr ""
+"Используя поисковую форму, можно найти учетные записи на ожидании более "
+"легко. Поля Имя Пользователя и Email будут включены в поиск."
+
+#: members/ura-members-admin.php:555
+msgid "Actions"
+msgstr "Действия"
+
+#: members/ura-members-admin.php:557
+msgid ""
+"Hovering over a row in the pending accounts list will display action links "
+"that allow you to manage pending accounts. You can perform the following "
+"actions:"
+msgstr ""
+"При наведении на строку в списке учетных записей на ожидании выведет на экран "
+"ссылки действия, которые позволяют Вам управлять учетными записями на "
+"ожидании. Можно выполнить следующие действия:"
+
+#: members/ura-members-admin.php:558
+msgid ""
+"\"Email\" takes you to the confirmation screen before being able to send the "
+"activation link to the desired pending account. You can only send the "
+"activation email once per day."
+msgstr ""
+"\"Email\" Вы попадете в экран подтверждения прежде чем он сможет отправить "
+"ссылку активации к желаемому уровню до учетной записи. Только один раз в день "
+"вы можете отправить письмо активации ."
+
+#: members/ura-members-admin.php:559
+msgid ""
+"\"Delete\" allows you to delete a pending account from your site. You will be "
+"asked to confirm this deletion."
+msgstr ""
+"\"Удалить \", позволяет Вам удалять учетную запись на ожидании от своего "
+"сайта. Вам будет предложено подтвердить это удаление"
+
+#: members/ura-members-admin.php:560
+msgid ""
+"By clicking on a Username you will be able to activate a pending account from "
+"the confirmation screen."
+msgstr ""
+"При нажатии на имя пользователя, вы сможете активировать отложенный счет на "
+"экране подтверждения."
+
+#: members/ura-members-admin.php:561
+msgid "Bulk actions allow you to perform these 3 actions for the selected rows."
+msgstr ""
+"Массовые действия позволяют выполнять эти 3 действия для выбранных строках."
+
+#: members/ura-members-admin.php:566
+msgid "For more information:"
+msgstr "Дополнительная информация:"
+
+#: members/ura-members-admin.php:567
+msgid "<a href=\"http://buddypress.org/support/\">Support Forums</a>"
+msgstr "<a href=\"http://buddypress.org/support/\">Форумы поддержки</a>"
+
+#: members/ura-members-admin.php:703
+msgctxt "user"
+msgid "Add New"
+msgstr "Добавить"
+
+#: members/ura-members-admin.php:712
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: members/ura-members-admin.php:780
+msgid "Delete Pending Accounts"
+msgstr "Удалить В Ожидании аккаунты"
+
+#: members/ura-members-admin.php:781
+msgid "You are about to delete the following account:"
+msgid_plural "You are about to delete the following accounts:"
+msgstr[0] "Вы собираетесь удалить следующий аккаунт:"
+msgstr[1] ""
+msgstr[2] ""
+
+#: members/ura-members-admin.php:785
+msgid "Activate Pending Accounts"
+msgstr "Активируйте -На Ожидании - счета"
+
+#: members/ura-members-admin.php:786
+msgid "You are about to activate the following account:"
+msgid_plural "You are about to activate the following accounts:"
+msgstr[0] "Вы собираетесь активировать следующий счет:"
+msgstr[1] ""
+msgstr[2] ""
+
+#: members/ura-members-admin.php:790 members/ura-members-admin.php:795
+msgid "Resend Activation Emails"
+msgstr "Повторная отправка сообщений электронной почты активации"
+
+#: members/ura-members-admin.php:791 members/ura-members-admin.php:796
+msgid "You are about to resend an activation email to the following account:"
+msgid_plural ""
+"You are about to resend activation emails to the following accounts:"
+msgstr[0] "Вы собираетесь отправить письмо активации на следующий счет:"
+msgstr[1] ""
+msgstr[2] ""
+
+#: members/ura-members-admin.php:836
+#, php-format
+msgid "Last notified: %s"
+msgstr "Последнее уведомление:%s"
+
+#: members/ura-members-admin.php:840
+msgid "(less than 24 hours ago)"
+msgstr "(Менее 24 часов назад)"
+
+#: members/ura-members-admin.php:854
+msgid "This action cannot be undone."
+msgstr "Это действие не может быть отменено."
+
+#: members/ura-members-admin.php:858
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: members/ura-members-admin.php:859
+msgid "Cancel"
+msgstr "Отменить"
+
+#: members/ura-pending-approval.php:269 members/ura-pending-approval.php:286
+#: members/ura-pending-approval.php:301 members/ura-pending-approval.php:316
+#: members/ura-pending-approval.php:359 members/ura-pending-approval.php:757
+#: members/ura-pending-approval.php:773 members/ura-pending-approval.php:788
+#: members/ura-pending-approval.php:803 members/ura-pending-approval.php:836
+#, php-format
+msgctxt "pending-approval"
+msgid "Pending Approval %s"
+msgstr "В ожидании одобрения %s"
+
+#: members/ura-pending-approval.php:272 members/ura-pending-approval.php:290
+#: members/ura-pending-approval.php:304 members/ura-pending-approval.php:320
+#: members/ura-pending-approval.php:363 members/ura-pending-approval.php:760
+#: members/ura-pending-approval.php:776 members/ura-pending-approval.php:791
+#: members/ura-pending-approval.php:807 members/ura-pending-approval.php:839
+#, php-format
+msgctxt "pending-deletion"
+msgid "Pending Deletion %s"
+msgstr "В ожидании удаления %s"
+
+#: members/ura-pending-approval.php:276 members/ura-pending-approval.php:294
+#: members/ura-pending-approval.php:308 members/ura-pending-approval.php:324
+#: members/ura-pending-approval.php:367 members/ura-pending-approval.php:764
+#: members/ura-pending-approval.php:780 members/ura-pending-approval.php:795
+#: members/ura-pending-approval.php:811 members/ura-pending-approval.php:843
+#, php-format
+msgctxt "pending-verification"
+msgid "Pending Verification %s"
+msgstr "Ожидает подтверждения%s"
+
+#: members/ura-pending-approval.php:463
+msgid "User Login"
+msgstr "Логин пользователя"
+
+#: members/ura-pending-approval.php:464
+msgid "E-mail"
+msgstr "E-mail"
+
+#: members/ura-pending-approval.php:465
+msgid "User Registered"
+msgstr "Дата регистрации пользователя"
+
+#: members/ura-pending-approval.php:466
+msgid "Emails Sent"
+msgstr "Отправлено писем"
+
+#: members/ura-pending-approval.php:467
+msgid "Email Verification"
+msgstr "Подтверждение Адреса Электронной Почты"
+
+#: members/ura-pending-approval.php:528 members/ura-pending-approval.php:536
+msgid "Approve User"
+msgstr "Утвердить пользователя"
+
+#: members/ura-pending-approval.php:529 members/ura-pending-approval.php:542
+msgid "Deny User"
+msgstr "Запретить пользователю"
+
+#: members/ura-pending-approval.php:530 members/ura-pending-approval.php:543
+msgid "Email User"
+msgstr "Email пользователя"
+
+#: members/ura-pending-approval.php:535
+msgid "Delete Denied User"
+msgstr "Удалить В Ожидании аккаунты"
+
+#: members/ura-pending-approval.php:541
+msgid "Activate User"
+msgstr "Активировать пользователя"
+
+#: models/ura-dashWidget-model.php:45 models/ura-dashWidget-model.php:72
+msgid "You can only have a maximum of 5 fields to show in dashboard widget!"
+msgstr ""
+"Вы можете иметь только максимум 5 полей для отображения в информационной "
+"панели виджета!"
+
+#: models/ura-dashWidget-model.php:120
+msgid "You haven't selected any fields to show in dashboard widget!"
+msgstr ""
+"Вы не выбрали ни одного поля для отображения в информационной панели виджета!"
+
+#: models/ura-dashWidget-model.php:124
+msgid "Dashboard Widget Fields Updated Successfully!"
+msgstr "Панель виджетов Поля успешно обновлен!"
+
+#: models/ura-dashWidget-model.php:150
+msgid "Dashboard Widget Fields Display Option Updated Successfully!"
+msgstr "Панель виджетов Поля Display Option успешно обновлен!"
+
+#: models/ura-dashWidget-model.php:181
+msgid ""
+"Duplicate Field Orders, can't assign two fields the same order number! Please "
+"try again!"
+msgstr ""
+"Повторяющиеся заказы на местах, не могут назначить два поля одинаковый номер "
+"для заказа! Пожалуйста, попробуйте еще раз!"
+
+#: models/ura-dashWidget-model.php:207
+msgid "Dashboard Widget Fields Order Updated Successfully!"
+msgstr "Панель виджетов Поля заказа успешно обновлен!"
+
+#: models/ura-dashWidget-model.php:442
+msgid "Login"
+msgstr "Войти"
+
+#: models/ura-dashWidget-model.php:446
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: models/ura-display-name-model.php:31 models/ura-edit-field-type-model.php:31
+#: models/ura-edit-new-field-model.php:31
+#: models/ura-edit-new-field-option-model.php:31
+#: models/ura-edit-numbers-model.php:31
+#: models/ura-edit-reg-form-fields-model.php:31
+#: models/ura-input-new-field-model.php:148 models/ura-option-order-model.php:31
+#: models/ura-reg-form-css-model.php:32 models/ura-reg-form-msgs-model.php:31
+#: models/ura-reg-form-options-model.php:248
+#: models/ura-style-options-model.php:81 models/ura-support-model.php:31
+#: models/ura-xwrd-change-model.php:31
+#: models/ura-xwrd-strength-options-model.php:31
+#: views/ura-add-options-view.php:31 views/ura-agreement-view.php:31
+#: views/ura-dashWidget-view.php:31 views/ura-debug.php:9
+#: views/ura-display-name-view.php:30
+#: views/ura-edit-new-field-options-view.php:31
+#: views/ura-edit-number-view.php:31 views/ura-edit-reg-form-fields-view.php:31
+#: views/ura-field-order-title-view.php:31 views/ura-field-type-view.php:31
+#: views/ura-input-new-field-view.php:31 views/ura-math-view.php:31
+#: views/ura-option-order-view.php:31 views/ura-profile-title-view.php:31
+#: views/ura-redirect-view.php:31 views/ura-reg-form-css-view.php:60
+#: views/ura-reg-form-msgs-view.php:31 views/ura-style-options-view.php:35
+#: views/ura-support-view.php:31 views/ura-xwrd-change-options-view.php:31
+#: views/ura-xwrd-strength-options-view.php:31
+msgid ""
+"You do not have permissions to activate this plugin, sorry, check with site "
+"administrator to resolve this issue please!"
+msgstr ""
+"У вас нет прав, чтобы активировать этот плагин, извините, проконсультируйтесь "
+"с администратором сайта, чтобы решить этот вопрос, пожалуйста!"
+
+#: models/ura-display-name-model.php:53
+msgid "Error No Display Name Role Selected!"
+msgstr "нет Error No Display Name Роль отобранный!"
+
+#: models/ura-display-name-model.php:98
+msgid "Display Name Options Updated!"
+msgstr "Параметры дисплея Имя Обновлено!"
+
+#: models/ura-display-name-model.php:131
+msgid "First - Last Name"
+msgstr "Имя и фамилия"
+
+#: models/ura-display-name-model.php:132
+msgid "Last - First Name"
+msgstr "Фамилия и Имя"
+
+#: models/ura-display-name-model.php:155
+msgid ""
+"You Must Set The Use Custom Display Name Field to Yes to Use This Feature!"
+msgstr ""
+"Вы должны установить Использовать ПОЛЬЗ.ДИСПЛЕЙ имя поля Да, чтобы "
+"использовать эту функцию!"
+
+#: models/ura-display-name-model.php:186
+msgid "Current Display Names Updated!"
+msgstr "Текущие Показать Имена Обновлено!"
+
+#: models/ura-display-name-model.php:232 models/ura-display-name-model.php:335
+msgid "Error Restoring Display Names!"
+msgstr "Ошибка при восстановлении отображения имен!"
+
+#: models/ura-display-name-model.php:234 models/ura-display-name-model.php:337
+msgid "Display Names Restored!"
+msgstr "Показать имена восстановлены!"
+
+#: models/ura-display-name-model.php:290
+msgid "Error Update Display Names!"
+msgstr "Ошибка обновления дисплея имена!"
+
+#: models/ura-display-name-model.php:292
+msgid "Display Names Updated!"
+msgstr "Показать имена Обновлено!"
+
+#: models/ura-edit-field-type-model.php:60
+msgid "Field Type Successfully Changed for "
+msgstr "Поле Тип успешно изменен для"
+
+#: models/ura-edit-field-type-model.php:61
+msgid "Field Types Successfully Changed for "
+msgstr "Типы полей успешно изменен для"
+
+#: models/ura-edit-field-type-model.php:90
+#: models/ura-edit-field-type-model.php:139
+msgid "**Warning: BP Field Type Could Not Be Changed!"
+msgstr "** Внимание: BP Тип Поле не может быть изменена!"
+
+#: models/ura-edit-field-type-model.php:104
+#: models/ura-edit-field-type-model.php:155
+msgid "**Warning: Field Type Could Not Be Changed!"
+msgstr "** Внимание: Тип поля не может быть изменена!"
+
+#: models/ura-edit-field-type-model.php:166
+msgid " No Field Type Changes Made! "
+msgstr "Нет поле Тип изменения сделали!"
+
+#: models/ura-edit-field-type-model.php:170
+msgid " No New Fields Have Been Created Yet! "
+msgstr "Нет новых месторождений не было создано еще!"
+
+#: models/ura-edit-field-type-model.php:181
+msgid ""
+"You changed a data type to a type that requires options and do not have any "
+"options for it.</p><p>To use it properly please add some options or change "
+"the field type to one that does not require options!"
+msgstr ""
+"Вы изменили тип данных к типу, который требует настройки и не имеют каких-"
+"либо вариантов для этого. </p><p> Для того, чтобы использовать его должным "
+"образом, пожалуйста, добавить некоторые опции или изменить тип поля на один, "
+"который не требует настройки!"
+
+#: models/ura-edit-new-field-model.php:112
+#, php-format
+msgid " %s Successfully Deleted!"
+msgstr "\"%s\"  успешно удален."
+
+#: models/ura-edit-new-field-model.php:115
+msgid ""
+"No field was selected for deletion, you must select a field to delete first!"
+msgstr ""
+"Поле не было выбрано для удаления, необходимо выбрать поле для удаления "
+"первого!"
+
+#: models/ura-edit-new-field-model.php:172
+#: models/ura-edit-new-field-model.php:180
+msgid "New Field Order Updated Successfully."
+msgstr "Новое поле Заказ успешно обновлен."
+
+#: models/ura-edit-new-field-model.php:185
+msgid ""
+"***Error Updating New Field Order, Two or More Fields Have the Same Order!***"
+msgstr ""
+"*** Ошибка Обновление Новый порядка полей, два или более поля имеют "
+"одинаковый порядок! ***"
+
+#: models/ura-edit-new-field-model.php:214
+#: models/ura-input-new-field-model.php:258
+#, php-format
+msgid ""
+"***Cannot add duplicate field names, %s is already included in the extra "
+"fields!***"
+msgstr ""
+"*** Невозможно добавить повторяющиеся имена полей,%s уже включена в "
+"дополнительные поля! ***"
+
+#: models/ura-edit-new-field-model.php:249
+#, php-format
+msgid " %s Name Not Entered! & "
+msgstr "Имя%s Не представлено! &"
+
+#: models/ura-edit-new-field-model.php:251
+#, php-format
+msgid " %s Name Not Entered!"
+msgstr "Имя%s Не представлено!"
+
+#: models/ura-edit-new-field-model.php:268
+#, php-format
+msgid " %1s Name Successfully changed to %2s! & "
+msgstr "%1s имя успешно изменен на %2s! &"
+
+#: models/ura-edit-new-field-model.php:270
+#, php-format
+msgid " %1s Name Successfully changed to %2s!"
+msgstr "%1s имя успешно изменен на %2s!"
+
+#: models/ura-edit-new-field-model.php:278
+msgid "No field was changed!"
+msgstr "Поле не было изменено!"
+
+#: models/ura-edit-new-field-option-model.php:82
+#, php-format
+msgid ""
+" Delete BP Option Error Messages - Unsuccessful BP & URA Field Option "
+"Deletion for Option %s "
+msgstr ""
+"Удаление BP вариант сообщения об ошибках - неудачной BP & опция удаления поля "
+"Ура для параметра %s"
+
+#: models/ura-edit-new-field-option-model.php:90
+#, php-format
+msgid "%s Option Deleted Successfully From URA & BP Field Options!"
+msgstr "Параметр %s успешно удалены из Ура & параметры BP поля!"
+
+#: models/ura-edit-new-field-option-model.php:94
+#, php-format
+msgid ""
+" BP Field Option %1s Successfully Deleted **** Error Messages - Unsuccessful "
+"URA Fields Deletion for Option: %2s"
+msgstr ""
+"BP поле параметр %1s успешно удалены *** сообщения об ошибках - удаление "
+"неудачной Ура поля для варианта: %2s"
+
+#: models/ura-edit-new-field-option-model.php:107
+#, php-format
+msgid ""
+" Error Messages - Unsuccessful BP & URA Field Option Deletion for Option: %s "
+msgstr ""
+"Сообщения об ошибках - неудачной BP & опция удаления поля Ура для варианта: %s"
+
+#: models/ura-edit-new-field-option-model.php:117
+msgid " Error Messages - Option Order Could Not be Updated!"
+msgstr "Сообщения об ошибках - параметр порядок может не обновляться!"
+
+#: models/ura-edit-new-field-option-model.php:121
+#, php-format
+msgid "%s  Option Deleted Successfully!"
+msgstr "%s успешно удален параметр!"
+
+#: models/ura-edit-new-field-option-model.php:126
+#, php-format
+msgid " Error Message - Unsuccessful URA Field Option Deletion: %s"
+msgstr "Сообщение об ошибке - опция удаления неудачной Ура поля: %s"
+
+#: models/ura-edit-new-field-option-model.php:146
+msgid "No Fields Selected for Deletion! Please Try Again!"
+msgstr "Нет полей, выбранных для удаления! Пожалуйста, попробуйте еще раз!"
+
+#: models/ura-edit-new-field-option-model.php:165
+msgid " The Following URA Option Name(s) Were Successfully Changed: "
+msgstr "Были успешно изменены следующие имена вариант ура:"
+
+#: models/ura-edit-new-field-option-model.php:166
+msgid " BP Option Names Successfully Updated "
+msgstr "Имена параметров BP успешно обновлен"
+
+#: models/ura-edit-new-field-option-model.php:167
+msgid " The Following BP Option Names Could Not Be Updated at This Time: "
+msgstr "Следующие имена параметров BP не может быть обновлен в настоящее время:"
+
+#: models/ura-edit-new-field-option-model.php:168
+#: models/ura-edit-new-field-option-model.php:169
+msgid " The Following URA Option Names Could Not Be Updated at This Time: "
+msgstr ""
+"Следующие имена параметров Ура не может быть обновлен в настоящее время:"
+
+#: models/ura-edit-new-field-option-model.php:170
+msgid " That Option Name Already Exists! "
+msgstr "Что имя параметра уже существует!"
+
+#: models/ura-edit-new-field-option-model.php:258
+msgid "No Field Option Titles Were Changed! Please Try Again!"
+msgstr ""
+"Параметр названия нет поля были изменены! Пожалуйста, попробуйте еще раз!"
+
+#: models/ura-edit-new-field-option-model.php:439
+#: models/ura-edit-new-field-option-model.php:473
+#, php-format
+msgid ""
+"Create Option Error: The Option %s Could Not Be Created, Please Try Again!"
+msgstr ""
+"Создайте параметр ошибка: Параметр %s не может быть создан, пожалуйста "
+"попробуйте снова!"
+
+#: models/ura-edit-new-field-option-model.php:442
+#: models/ura-edit-new-field-option-model.php:476
+#, php-format
+msgid "Create Option Success: The Option %1s Was Successfully Created for %2s!"
+msgstr "Создайте параметр успеха: Параметр %1s был успешно создан для %2s!"
+
+#: models/ura-edit-new-field-option-model.php:446
+#, php-format
+msgid ""
+" Error Messages - Unsuccessful BP Option Update: The Following Option: %s Not "
+"Added"
+msgstr ""
+"Сообщения об ошибках - неудачной BP параметр обновление: Следующий параметр: "
+"%s не добавлен"
+
+#: models/ura-edit-new-field-option-model.php:482
+#, php-format
+msgid ""
+"Create Option Error: The Option Title %s Was a Duplicate, Option Title "
+"Already Exists!, Please Try Again!"
+msgstr ""
+"Создайте параметр ошибка: Название опции %s было дубликатом, названия "
+"параметра уже существует!, пожалуйста, попробуйте еще раз!"
+
+#: models/ura-edit-new-field-option-model.php:485
+#, php-format
+msgid ""
+"Create Option Error: The Option Title %1s & Option Key %2s Were Duplicates, "
+"Option Title and Key Already Exists!, Please Try Again!"
+msgstr ""
+"Создайте параметр ошибка: Название опции %1s & Option ключ %2s были "
+"дубликаты, вариант названия и ключ уже существует!, пожалуйста, попробуйте "
+"еще раз!"
+
+#: models/ura-edit-new-field-option-model.php:488
+#, php-format
+msgid ""
+"Create Option Error: The Option Key %s Was a Duplicate, Option Key Already "
+"Exists!, Please Try Again!"
+msgstr ""
+"Создайте параметр ошибка: Параметр ключа %s было дубликатом, параметр Key уже "
+"существует!, пожалуйста, попробуйте еще раз!"
+
+#: models/ura-edit-numbers-model.php:70
+msgid "*** Maximum Number Less Than Minimum Number!***"
+msgstr "Максимальное число меньше минимального числа! ***"
+
+#: models/ura-edit-numbers-model.php:76
+msgid ""
+"*** Step Number Greater Than Difference Between Maximum Number and Minimum "
+"Number Which Will Throw Errors!***"
+msgstr ""
+"Шаг номер больше, чем разница между максимальное и минимальное количество, "
+"которое будет выдавать ошибки! ***"
+
+#: models/ura-edit-numbers-model.php:83
+msgid "*** Step Number is Equal to or Smaller Than 0!***"
+msgstr "Шаг номер является равным или меньше чем 0! ***"
+
+#: models/ura-edit-numbers-model.php:128
+msgid "The Following Number Type Fields Were Updated: "
+msgstr "Этот номер типа поля были обновлены:"
+
+#: models/ura-edit-numbers-model.php:134
+msgid "*** No Number Fields Were Changed!***"
+msgstr "*** Нет Количество полей не были изменены! ***"
+
+#: models/ura-edit-reg-form-fields-model.php:93
+msgid "All Registration Form Fields Unselected Successfully!"
+msgstr "Все поля формы регистрации Невыбранная Успешно!"
+
+#: models/ura-edit-reg-form-fields-model.php:97
+#: models/ura-edit-reg-form-fields-model.php:187
+#: models/ura-edit-reg-form-fields-model.php:204
+#: models/ura-edit-reg-form-fields-model.php:263
+#: models/ura-edit-reg-form-fields-model.php:282
+#: models/ura-option-order-model.php:124 models/ura-reg-form-css-model.php:269
+#: models/ura-reg-form-msgs-model.php:145
+#: models/ura-reg-form-options-model.php:276
+#: models/ura-style-options-model.php:180 models/ura-support-model.php:43
+#: models/ura-xwrd-change-model.php:75
+#: models/ura-xwrd-strength-options-model.php:182
+msgid "Invalid Security Check!"
+msgstr "Invalid Проверка безопасности!"
+
+#: models/ura-edit-reg-form-fields-model.php:153
+#, php-format
+msgid ""
+"Registration Form Add New Field Options NOT Updated ! Cannot add A Field Type "
+"of %s Without any Existing Options to the Registration Form!"
+msgstr ""
+"Форма регистрации добавить параметры новое поле не обновляется! Невозможно "
+"добавить поле Тип%s Без каких-либо существующих вариантов на регистрационную "
+"форму!"
+
+#: models/ura-edit-reg-form-fields-model.php:184
+msgid "Registration Form Add New Field Options Updated Successfully!"
+msgstr "Форма регистрации Добавить новое поле Опции успешно обновлен!"
+
+#: models/ura-edit-reg-form-fields-model.php:201
+msgid "All Optional Registration Form Fields Unselected Successfully!"
+msgstr "Все Дополнительно Регистрационная форма Поля Невыбранная Успешно!"
+
+#: models/ura-edit-reg-form-fields-model.php:259
+msgid "Registration Form Required Fields Updated Successfully!"
+msgstr "Форма регистрации Обязательные поля успешно обновлен!"
+
+#: models/ura-edit-reg-form-fields-model.php:278
+msgid "Registration Form Field Title Punctuation Updated Successfully!"
+msgstr "Форма регистрации поле Название пунктуация успешно обновлен!"
+
+#: models/ura-input-new-field-model.php:78
+msgid ""
+"Enter options here for your radio, select, or checkbox options! Just enter "
+"like you want them displayed, single words are best. Like the example above "
+"or this for Cars, Chevy Chrysler Ford Toyota GM Honda or for Marital Status: "
+"Divorced Single Widowed NOTE: DO NOT USE COMMAS in your field options please! "
+"It will mess up your whole array of options strings!!"
+msgstr ""
+"Введите варианты здесь для ваших вариантов радио, выберите или CheckBox! "
+"Просто введите, как вы хотите, чтобы они отображаются, отдельные слова лучше "
+"всего. Как и в примере выше, или это для автомобилей, Chevy Chrysler Форд GM "
+"Toyota Honda или Семейное положение: Разведен овдовевшей ПРИМЕЧАНИЕ: Не "
+"используйте запятые в параметрах поля, пожалуйста! Это испортит весь ваш "
+"массив опций строк !!"
+
+#: models/ura-input-new-field-model.php:114
+msgid ""
+"Enter option keys here for your radio, select, or checkbox options! Use lower "
+"case letters and underscores( _ ). Like the example above or this for Cars, "
+"chevy, honda, or for Marital Status: single, divorced or for a second address "
+"use address_1 or for phone area code you could use area_code. NOTE: DO NOT "
+"USE COMMAS in your field options please! It will mess up your whole array of "
+"options strings!!"
+msgstr ""
+"Введите параметр ключи здесь для вашего Радио, select или флажок опции! "
+"Используйте строчные буквы и знаки подчеркивания (_). Для автомобилей, Чеви, "
+"honda, или семейное положение, как в примере выше, или это: одноместных, "
+"разведенные или для второго address_1 использовать адрес или телефон области "
+"кода можно использовать код_города. Примечание: Не используйте ЗАПЯТЫЕ в поле "
+"Параметры пожалуйста! Оно mess вверх ваш весь массив строк параметров!!"
+
+#: models/ura-input-new-field-model.php:253
+#, php-format
+msgid ""
+"***Cannot add duplicate keys, %s key is already included in the extra fields!"
+"***"
+msgstr ""
+"*** Невозможно добавить дубликаты ключей, ключ%s уже включена в "
+"дополнительные поля! ***"
+
+#: models/ura-input-new-field-model.php:264
+#, php-format
+msgid ""
+"***Cannot add duplicate key or name, %2$s and %1$s are already included in "
+"the extra fields!***"
+msgstr ""
+"*** Невозможно добавить дубликат ключа или имя%2$s и%1$s уже включены в "
+"дополнительные поля! ***"
+
+#: models/ura-input-new-field-model.php:279
+msgid ""
+" You Have Not Selected Any Number Fields, Please Select a Minimum Number, "
+"Maximum Number and Number Step By to Proceed! "
+msgstr ""
+"Вы не выбрали любое число полей, пожалуйста выберите минимальное количество, "
+"максимальное количество и номер шага приступить!"
+
+#: models/ura-input-new-field-model.php:284
+msgid " Your Maximum Number is Equal to Your Minimum Number "
+msgstr "Ваш Максимальное число равно Ваш Минимальное количество"
+
+#: models/ura-input-new-field-model.php:287
+msgid " & Your Maximum Number is Equal to Your Minimum Number "
+msgstr "И Ваш Максимальное число равно Ваш Минимальное количество"
+
+#: models/ura-input-new-field-model.php:292
+#: models/ura-input-new-field-model.php:295
+msgid " Your Maximum Number is Less Than Your Minimum Number "
+msgstr ""
+"Ваш Максимальное количество составляет меньше, чем Минимальное количество"
+
+#: models/ura-input-new-field-model.php:302
+msgid " Your Number Step By is Greater Than Your Maximum Number "
+msgstr "Ваш номер Step By больше, чем максимально допустимое количество"
+
+#: models/ura-input-new-field-model.php:305
+msgid " & Your Number Step By is Greater Than Your Maximum Number "
+msgstr "И Ваш номер Step By больше, чем максимально допустимое количество"
+
+#: models/ura-input-new-field-model.php:310
+msgid ""
+" Your Number Step By is the Same as Your Maximum Number, Please\n"
+"\t\t\t\t\t\t\t\tSelect a Lower Step Number "
+msgstr ""
+"Ваш номер Step By такой же, как максимально допустимое количество, "
+"Пожалуйста, выберите более низкое число Шаг"
+
+#: models/ura-input-new-field-model.php:314
+msgid ""
+" & Your Number Step By is the Same as Your Maximum Number, Please Select a "
+"Lower Step Number "
+msgstr ""
+"И Ваш номер Step By такой же, как максимально допустимое количество, "
+"Пожалуйста, выберите более низкое число Шаг"
+
+#: models/ura-input-new-field-model.php:319
+msgid " Your Number Step By is 0 Please Select a Step Number "
+msgstr "Ваш номер Step By 0 Пожалуйста, выберите номер шага"
+
+#: models/ura-input-new-field-model.php:322
+msgid " & Your Number Step By is 0 Please Select a Step Number "
+msgstr "И Ваш номер Step By 0 Пожалуйста, выберите номер шага"
+
+#: models/ura-input-new-field-model.php:329
+#: models/ura-input-new-field-model.php:335
+#: models/ura-input-new-field-model.php:341
+#, php-format
+msgid ""
+"***Add New Field Options NOT updated Successfully. Cannot have Number in "
+"Field Type %s"
+msgstr ""
+"*** Дополнительные возможности Новое поле не обновлено. Не может иметь номер "
+"в Поле Тип%s"
+
+#: models/ura-input-new-field-model.php:353
+msgid ""
+" You Can Only Add Field Options With Radio Buttons, Select or Multi-Select "
+"Options "
+msgstr ""
+"Можно добавлять только параметры поля С помощью радиокнопок, выберите или "
+"Multi-Выберите Функции"
+
+#: models/ura-input-new-field-model.php:361
+msgid " Radio Button Field Options  Missing"
+msgstr "Радио Кнопка Параметры полей Отсутствует"
+
+#: models/ura-input-new-field-model.php:366
+msgid " CheckBox Field Options Missing"
+msgstr "Варианты CheckBox Поле Недостающие"
+
+#: models/ura-input-new-field-model.php:371
+msgid " Select Field Options  Missing"
+msgstr "Выберите Функции отсутствует поле"
+
+#: models/ura-input-new-field-model.php:376
+msgid " Multi-Select Box Field Options Missing"
+msgstr "Multi-Box Выберите Функции Field Недостающие"
+
+#: models/ura-input-new-field-model.php:385
+#: models/ura-input-new-field-model.php:403
+#: models/ura-input-new-field-model.php:421
+#: models/ura-input-new-field-model.php:474
+#, php-format
+msgid ""
+"***Add New Field Options not updated successfully. Duplicate Field Option Key "
+"%s"
+msgstr ""
+"*** Дополнительные возможности новое поле не обновлено. Дубликат поле Option "
+"Key%s"
+
+#: models/ura-input-new-field-model.php:388
+#: models/ura-input-new-field-model.php:406
+#: models/ura-input-new-field-model.php:424
+#: models/ura-input-new-field-model.php:477
+#, php-format
+msgid ""
+"***Add New Field Options not updated successfully. Duplicate Field Option "
+"Name %s"
+msgstr ""
+"*** Дополнительные возможности новое поле не обновлено. Повторяющиеся поля "
+"Option Name%s"
+
+#: models/ura-input-new-field-model.php:459
+msgid ""
+" You Have Selected Options for a Number Field, There can be no Options in a "
+"Number Field! "
+msgstr ""
+"У вас есть выбранные параметры для поля число, не может быть никаких "
+"вариантов в поле номер!"
+
+#: models/ura-input-new-field-model.php:492
+#, php-format
+msgid ""
+"***Add New Field Options not updated successfully. Missing both fields for: "
+"%s ***"
+msgstr ""
+"*** Дополнительные возможности новое поле не обновлено. Отсутствующие оба "
+"поля для:%s ***"
+
+#: models/ura-input-new-field-model.php:495
+#, php-format
+msgid ""
+"***Add New Field Options not updated successfully. Missing following field "
+"for: %1$s: %2$s ***"
+msgstr ""
+"*** Дополнительные возможности новое поле не обновлено. Недостающие следующее "
+"поле:%1$s:%2$s ***"
+
+#: models/ura-input-new-field-model.php:498
+#, php-format
+msgid ""
+"***Add New Field Options not updated successfully. Following field already "
+"exists: %1$s and you are missing the following field: %2$s***"
+msgstr ""
+"*** Дополнительные возможности новое поле не обновлено. Следующее поле уже "
+"существует:%1$s и вам не хватает следующее поле:%2$s ***"
+
+#: models/ura-input-new-field-model.php:501
+#, php-format
+msgid "***Add New Field Options not updated successfully. %s ***"
+msgstr "*** Дополнительные возможности новое поле не обновлено. %s ***"
+
+#: models/ura-input-new-field-model.php:515
+#: models/ura-input-new-field-model.php:532
+#, php-format
+msgid "Add New Field %s option updated successfully!"
+msgstr "Добавить параметр%s New Field успешно обновлен!"
+
+#: models/ura-input-new-field-model.php:517
+#: models/ura-input-new-field-model.php:520
+#: models/ura-input-new-field-model.php:534
+#: models/ura-input-new-field-model.php:537
+#, php-format
+msgid ""
+"***Cannot add duplicate fields, %s is already included in the extra fields!***"
+msgstr ""
+"*** Невозможно добавить повторяющиеся поля,%s уже включена в дополнительные "
+"поля! ***"
+
+#: models/ura-input-new-field-model.php:613
+#: models/ura-input-new-field-model.php:683
+#: models/ura-input-new-field-model.php:703
+#: models/ura-input-new-field-model.php:759
+#, php-format
+msgid ""
+"***Cannot add duplicate Meta Keys, Meta Key %s is already being used in the "
+"extra fields!***"
+msgstr ""
+"*** Невозможно добавить дубликаты ключей Мета, Мета Ключ%s уже используется в "
+"дополнительных полях! ***"
+
+#: models/ura-input-new-field-model.php:616
+#, php-format
+msgid ""
+"***Cannot add duplicate Option Meta Keys, Meta Key %s is already being used "
+"in the extra fields!***"
+msgstr ""
+"*** Невозможно добавить дубликат Option Meta Keys, Meta Key%s уже "
+"используется в дополнительных полях! ***"
+
+#: models/ura-input-new-field-model.php:619
+#, php-format
+msgid ""
+"***Cannot add duplicate Option Names, Option Name %s is already being used in "
+"the extra fields!***"
+msgstr ""
+"*** Невозможно добавить повторяющиеся имена опций, Имя параметра%s уже "
+"используется в дополнительных полях! ***"
+
+#: models/ura-input-new-field-model.php:769
+msgid ""
+"You do not have adequate permissions to edit this plugin! Please check with "
+"Administrator to get additional permissions."
+msgstr ""
+"У вас нет прав для редактирования этого плагина! Пожалуйста, свяжитесь с "
+"администратором, чтобы получить дополнительные разрешения."
+
+#: models/ura-menu-model.php:54
+msgid ""
+"Set Dashboard Widget Options & Select Fields to add to Registration Form or "
+"Add New Custom Fields Here"
+msgstr ""
+"Набор виджетов Dashboard Параметры & выбора полей для добавления в "
+"регистрационную форму или добавить новые Пользовательские поля здесь"
+
+#: models/ura-menu-model.php:55
+msgid ""
+"Edit New Fields For Registration Form/User Profile Here Like Field Order, "
+"Field Titles Or Delete Fields"
+msgstr ""
+"Редактировать новые поля для регистрации Форма / User Profile здесь, как "
+"Field Order, Названия поля или удалять поля"
+
+#: models/ura-menu-model.php:56
+msgid ""
+"Customize Bottom Registration Form Message, Password Strength Options, Custom "
+"Redirects, Agreement Message, Anti-Bot Spammer & Title for Profile Pages Here"
+msgstr ""
+"Настройка Bottom регистрации формы сообщения, параметры пароля сила, "
+"пользовательские перенаправлений Соглашение сообщение, Anti-Bot Spammer & "
+"заголовка для страницы профиля Здесь"
+
+#: models/ura-menu-model.php:57
+msgid ""
+"Customize Registration Form Messages & Custom Registration Form CSS Options "
+"Here"
+msgstr ""
+"Настройка Регистрационная форма сообщений & Специальные параметры CSS "
+"Регистрационная форма Здесь"
+
+#: models/ura-menu-model.php:58
+msgid ""
+"Password Change Settings Options, Change Display Name Options or URA Admin "
+"Page Style Sheet Settings Here"
+msgstr ""
+"Настройки пароля Изменить Настройки Параметры, Параметры Имя Изменение "
+"отображения или URA Admin Страница Style Sheet Здесь"
+
+#: models/ura-menu-model.php:167
+msgid "Add Your New Fields for User Profiles and Registration Form  Here"
+msgstr ""
+"Добавьте новые поля для профили пользователей и регистрационную форму здесь"
+
+#: models/ura-menu-model.php:168
+msgid "Edit and Change all the Dashboard Widget Settings Here"
+msgstr "Редактировать и изменять все Dashboard виджет параметры здесь"
+
+#: models/ura-menu-model.php:208
+msgid ""
+"Delete Fields, Add or Remove Registration Form Fields & Change Required "
+"Fields Here"
+msgstr ""
+"Удаление полей, добавление или удаление регистрации & изменения поля "
+"необходимые поля формы здесь"
+
+#: models/ura-menu-model.php:209
+msgid "Edit Field Orders & Titles Here"
+msgstr "Редактировать поле заказы & названия здесь"
+
+#: models/ura-menu-model.php:210
+msgid "Edit Field Options Orders Here"
+msgstr "Редактировать поле заказы вариантов здесь"
+
+#: models/ura-menu-model.php:211
+msgid "Delete Options & Edit Option Titles Here"
+msgstr "Удалить параметры & изменить вариант названия здесь"
+
+#: models/ura-menu-model.php:212
+msgid "Add New Field Options Here"
+msgstr "Добавьте новые параметры поля здесь"
+
+#: models/ura-menu-model.php:213
+msgid "Change Fields Data Types Here"
+msgstr "Изменение поля типы данных здесь"
+
+#: models/ura-menu-model.php:214
+msgid "Edit Number Type Fields Here"
+msgstr "Изменить номер поля типа здесь"
+
+#: models/ura-menu-model.php:252
+msgid "Edit Password Strength Requirement Options Here"
+msgstr "Редактировать параметры прочности требование пароля здесь"
+
+#: models/ura-menu-model.php:253
+msgid "Edit Custom Redirect Options Here"
+msgstr "Редактирование пользовательских перенаправление вариантов здесь"
+
+#: models/ura-menu-model.php:254
+msgid "Edit Your Custom Agreement Message Options Here"
+msgstr "Редактировать параметры сообщения пользовательского соглашения"
+
+#: models/ura-menu-model.php:255
+msgid "Edit Your Anti-Bot Anti-Spam Math Problem Options Here"
+msgstr ""
+"Отредактировать скрипт анти анти-спам математике проблемы варианты здесь"
+
+#: models/ura-menu-model.php:256
+msgid "Edit Your Profile Page Title Options Here"
+msgstr "Редактировать параметры название страницы профиля"
+
+#: models/ura-menu-model.php:291
+msgid "Edit Your Custom Registration Form Message Options Here"
+msgstr ""
+"Редактировать ваши пользовательские формы сообщения варианты регистрации здесь"
+
+#: models/ura-menu-model.php:292
+msgid "Edit Your Registration Form CSS Customization Options Here"
+msgstr "Редактировать ваши регистрации CSS настройки Параметры формы здесь"
+
+#: models/ura-menu-model.php:328
+msgid "Edit & Change Your Password Change Options Here"
+msgstr "Редактировать & изменить параметры изменения пароля"
+
+#: models/ura-menu-model.php:329
+msgid "Edit & Change Your Display Name Options Here"
+msgstr "Редактировать & изменить параметры имя отображения"
+
+#: models/ura-menu-model.php:330
+msgid "Edit & Change Your URA CSS Style Options Here"
+msgstr "Редактировать & изменить параметры стиля CSS Ура"
+
+#: models/ura-menu-model.php:435
+msgid "Registration Fields"
+msgstr "Поля регистрации"
+
+#. Plugin Name of the plugin/theme
+#: models/ura-menu-model.php:461
+msgid "User Registration Aide"
+msgstr "Регистрация пользователя"
+
+#: models/ura-menu-model.php:572
+msgid "Debug Log"
+msgstr "Журнал отладки"
+
+#: models/ura-option-order-model.php:89
+msgid "New Options Order Updated Successfully!"
+msgstr "Новый порядок параметры успешно обновлены!"
+
+#: models/ura-option-order-model.php:93
+msgid ""
+"***Error Updating New Options Order, Two or More Field Options Have the Same "
+"Order!***"
+msgstr ""
+"Ошибка обновления новые варианты заказа, параметры два или несколько полей с "
+"одинаковым заказ! ***"
+
+#: models/ura-option-order-model.php:110
+msgid " -- Buddy Press Options Orders Updated! "
+msgstr "--Контактов нажмите Опции заказы обновление!"
+
+#: models/ura-profile-model.php:116
+msgid "Failed Nonce Security!"
+msgstr "Ошибка Nonce безопасности!"
+
+#: models/ura-profile-model.php:191
+msgid ""
+"You do not have sufficient permissions to edit this user, contact a network "
+"administrator if this is an error!"
+msgstr ""
+"У Вас нет достаточно прав для редактирования этого пользователя, обратитесь к "
+"сетевому администратору, если это ошибка!"
+
+#: models/ura-reg-form-css-model.php:46
+msgid "New Logo URL"
+msgstr "Новый логотип URL"
+
+#: models/ura-reg-form-css-model.php:52
+msgid "Show Logo Option"
+msgstr "Показать Logo Опция"
+
+#: models/ura-reg-form-css-model.php:58
+msgid "Change Logo Link"
+msgstr "Изменить логотип"
+
+#: models/ura-reg-form-css-model.php:64
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: models/ura-reg-form-css-model.php:70
+msgid "Logo Width"
+msgstr "Ширина лого"
+
+#: models/ura-reg-form-css-model.php:80
+msgid "Background Image URL"
+msgstr "URL-адрес фонового изображения"
+
+#: models/ura-reg-form-css-model.php:88
+msgid "Background Image Repeat"
+msgstr "Повтор фонового изображения"
+
+#: models/ura-reg-form-css-model.php:92
+msgid "Show Custom Form Background Image Option"
+msgstr "Показать пользовательские формы Фоновое изображение Вариант"
+
+#: models/ura-reg-form-css-model.php:102
+msgid "Custom Page Background Image URL"
+msgstr "Пользовательские фоновое изображение"
+
+#: models/ura-reg-form-css-model.php:132 models/ura-reg-form-css-model.php:139
+msgid "Background Page Image Repeat"
+msgstr "﻿Повторение фонового изображения"
+
+#: models/ura-reg-form-css-model.php:143
+msgid "Show Custom Page Background Image"
+msgstr "Пользовательские фоновое изображение"
+
+#: models/ura-reg-form-css-model.php:153
+msgid "Custom Form Background Color"
+msgstr "Свой цвет фона"
+
+#: models/ura-reg-form-css-model.php:159
+msgid "Show Custom Form Background Color Option"
+msgstr "Показать пользовательские формы Цвет фона Опция"
+
+#: models/ura-reg-form-css-model.php:169
+msgid "Custom Page Background Color"
+msgstr "Свой цвет фона"
+
+#: models/ura-reg-form-css-model.php:175
+msgid "Show Custom Page Background Color Option"
+msgstr "Показать Пользовательские страницы Цвет фона Опция"
+
+#: models/ura-reg-form-css-model.php:191
+msgid "You Cannot Have Page Background Image and Color Both Selected!"
+msgstr "Вы не можете иметь фоновое изображение страницы и цвет выбраны оба!"
+
+#: models/ura-reg-form-css-model.php:205
+msgid "You Cannot Have Form Background Image and Color Both Selected!"
+msgstr "Вы не можете иметь форму фоновое изображение и цвет выбраны оба!"
+
+#: models/ura-reg-form-css-model.php:216
+msgid "Login Form Text-Links Color"
+msgstr "Войти Форма текста ссылки Цвет"
+
+#: models/ura-reg-form-css-model.php:222
+msgid "New Links Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: models/ura-reg-form-css-model.php:226
+msgid "Show Login Text Color Option"
+msgstr "Показать Войти Text Color Option"
+
+#: models/ura-reg-form-css-model.php:239
+msgid "Shadow Size in PX"
+msgstr "Тень Размер в PX"
+
+#: models/ura-reg-form-css-model.php:245
+msgid "Shadow Color"
+msgstr "Цвет тени"
+
+#: models/ura-reg-form-css-model.php:249
+msgid "Show Link Shadows Option"
+msgstr "Показать Link Shadows Option"
+
+#: models/ura-reg-form-css-model.php:253
+msgid "New Registration Form CSS Options updated successfully."
+msgstr "Новые параметры CSS формы регистрации, успешно обновлены."
+
+#: models/ura-reg-form-css-model.php:264
+msgid "New Registration Form CSS Options Errors "
+msgstr "Новый регистрационный бланк CSS вариантов ошибки"
+
+#: models/ura-reg-form-msgs-model.php:45
+msgid "Show Login Message"
+msgstr "Войти при входе"
+
+#: models/ura-reg-form-msgs-model.php:51
+msgid "Top Login Form Message"
+msgstr "Топ Войти Форма Сообщение"
+
+#: models/ura-reg-form-msgs-model.php:57
+msgid "Registration Form Message"
+msgstr "Регистрационная форма Сообщение"
+
+#: models/ura-reg-form-msgs-model.php:63
+msgid "Extra Login Messages"
+msgstr "Дополнительные Вход Сообщения"
+
+#: models/ura-reg-form-msgs-model.php:69
+msgid "Logged Out Message"
+msgstr "Вышел из сообщения"
+
+#: models/ura-reg-form-msgs-model.php:75
+msgid "Succesful Registration Message"
+msgstr "Регистрация Сообщение Успешное"
+
+#: models/ura-reg-form-msgs-model.php:81
+msgid "Lost Password Message"
+msgstr "Забыли пароль? Сообщение"
+
+#: models/ura-reg-form-msgs-model.php:87
+msgid "Lost Password Confirm Message"
+msgstr "Забыли пароль? Подтвердите сообщение"
+
+#: models/ura-reg-form-msgs-model.php:91 models/ura-reg-form-msgs-model.php:98
+#: models/ura-reg-form-options-model.php:47
+msgid "New Bottom Registration Form Message Options updated successfully."
+msgstr ""
+"Новые Донные Параметры сообщения Регистрационная форма успешно обновлен."
+
+#: models/ura-reg-form-msgs-model.php:94
+msgid "Show Registration Form Bottom Message"
+msgstr "Показать регистрационную форму Bottom Сообщение"
+
+#: models/ura-reg-form-msgs-model.php:101
+msgid "Registration Form Bottom Message"
+msgstr "Форма регистрации Bottom Сообщение"
+
+#: models/ura-reg-form-msgs-model.php:110
+msgid "New User Approve Pre Registration Message"
+msgstr "Новый пользователь Утверждение предварительного сообщение о регистрации"
+
+#: models/ura-reg-form-msgs-model.php:116
+msgid "New User Approve Post Registration Message 1"
+msgstr "Новый пользователь Одобрить Сообщение Регистрация Сообщение 1"
+
+#: models/ura-reg-form-msgs-model.php:122
+msgid "New User Approve Post Registration Message 2"
+msgstr "Новый пользователь Одобрить Сообщение Регистрация Сообщение 2"
+
+#: models/ura-reg-form-msgs-model.php:127
+msgid "New Top Registration Form Message Options updated successfully."
+msgstr "Новые параметры сообщений Top Регистрационная форма успешно обновлен."
+
+#: models/ura-reg-form-msgs-model.php:130
+msgid "New Top & Bottom Registration Form Message Options updated successfully."
+msgstr ""
+"Новые Top & Bottom Параметры сообщения Регистрационная форма успешно "
+"обновлена."
+
+#: models/ura-reg-form-msgs-model.php:142
+msgid "New Top Registration Form Message Fields Empty for "
+msgstr "Новый топ регистрационные формы сообщения поля пустые для"
+
+#: models/ura-reg-form-options-model.php:49
+msgid ""
+"New Bottom Registration Form Message Options empty, not updated successfully."
+msgstr ""
+"Новые опции Bottom Форма регистрации сообщений пуста, не была успешно "
+"обновлена."
+
+#: models/ura-reg-form-options-model.php:78
+msgid " Registration Redirect URL Option "
+msgstr "Регистрация URL переадресации Опция"
+
+#: models/ura-reg-form-options-model.php:84
+msgid " Registration Redirect URL "
+msgstr "URL страницы после Регистрации"
+
+#: models/ura-reg-form-options-model.php:90
+msgid " Login Redirect URL Option "
+msgstr "Вход Перенаправление URL Option"
+
+#: models/ura-reg-form-options-model.php:96
+msgid " Login Redirect URL "
+msgstr "Переадресация после логина"
+
+#: models/ura-reg-form-options-model.php:100
+msgid ""
+"New Login & Registration Form Custom Redirects Options updated successfully."
+msgstr ""
+"Новый Логин и регистрационная форма Пользовательские перенаправляет Параметры "
+"успешно обновлены."
+
+#: models/ura-reg-form-options-model.php:102
+#, php-format
+msgid "New Login & Registration Form Custom Redirects Options Field %s Empty!"
+msgstr ""
+"Новое Войти и Форма регистрации Пользовательские параметры Переадресовывают "
+"поле%s Пусто!"
+
+#: models/ura-reg-form-options-model.php:131
+msgid " Show User Custom Agreement Link Option "
+msgstr "Показать пользователя пользовательского соглашения Link Опциональная"
+
+#: models/ura-reg-form-options-model.php:137
+msgid " Custom Agreement Link "
+msgstr "Пользовательские соглашения Ссылка"
+
+#: models/ura-reg-form-options-model.php:143
+msgid " Custom Agreement Title "
+msgstr "Пользовательские соглашения Название"
+
+#: models/ura-reg-form-options-model.php:149
+msgid " Show Custom Agreement Message Confirmation Agreement Option "
+msgstr "Показать на заказ Соглашение Сообщение Соглашение подтверждения Вариант"
+
+#: models/ura-reg-form-options-model.php:155
+msgid " Show Custom Agreement Checkbox Option "
+msgstr "Персонализированных соглашение Checkbox Option"
+
+#: models/ura-reg-form-options-model.php:161
+msgid " Custom Agreement Message "
+msgstr "Пользовательские соглашения Сообщение"
+
+#: models/ura-reg-form-options-model.php:165
+msgid "New Registration Form Agreement Message Options updated successfully."
+msgstr ""
+"Новые параметры соглашения Сообщение Регистрационная форма успешно обновлен."
+
+#: models/ura-reg-form-options-model.php:167
+#, php-format
+msgid "New Registration Form Agreement Message Options Fields %s Empty!"
+msgstr ""
+"Новая Регистрационная форма соглашения Сообщение Параметры поля%s Пусто!"
+
+#: models/ura-reg-form-options-model.php:213
+#: models/ura-reg-form-options-model.php:226
+msgid ""
+"You have not selected any operators (+. -, /, *) to use and selected to use "
+"the anti-spam math problem! Please try again and select at least one operator "
+"of select no to use the anti-spam math problem"
+msgstr ""
+"Вы не выбрали ни операторов (  -., / *), Чтобы использовать и выбранный "
+"использовать анти-спам математическую задачу! Пожалуйста, попробуйте еще раз "
+"и выбрать хотя бы один оператор выбран вариант Нет, чтобы использовать анти-"
+"спам математическую задачу"
+
+#: models/ura-reg-form-options-model.php:223
+msgid "Anti-Bot-Spammer Math Problem Options updated successfully."
+msgstr "Anti-Bot-Спамерские Math Опции Проблема успешно обновлен."
+
+#: models/ura-reg-form-options-model.php:260
+msgid " Change Profile Plugin Title Option "
+msgstr "Название плагина вариант изменения профиля"
+
+#: models/ura-reg-form-options-model.php:266
+msgid " Profile Plugin Title Option "
+msgstr "Параметр плагина название профиля"
+
+#: models/ura-reg-form-options-model.php:270
+msgid "New Profile Page Extra Fields Title Updated Successfully."
+msgstr "Новая страница профиля Extra Title Поля успешно обновлен."
+
+#: models/ura-reg-form-options-model.php:273
+msgid "New Profile Page Extra Fields Title Empty!"
+msgstr "Новый профиль страницы загородный поля заголовок пустым!"
+
+#: models/ura-registration-form-model.php:551
+msgid "Failed Security Verification"
+msgstr "Failed Проверка безопасности"
+
+#: models/ura-registration-form-model.php:612
+msgid "<strong>ERROR</strong>: Please enter your "
+msgstr "<strong>ОШИБКА</strong>: Пожалуйста введите пароль."
+
+#: models/ura-registration-form-model.php:626
+msgid "<strong>ERROR</strong>: Your "
+msgstr "<strong>ОШИБКА:</strong> Ваш"
+
+#: models/ura-registration-form-model.php:652
+#: models/ura-registration-form-model.php:655
+msgid "<strong>ERROR</strong>: You must agree to the terms and conditions!"
+msgstr "<strong>ОШИБКА:</strong> Вы должны согласиться с условиями!"
+
+#: models/ura-registration-form-model.php:682
+msgid ""
+"<strong>ERROR</strong>: You must enter the anti-spam math problem answer!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Вы должны ввести анти-спам математическую задачу "
+"ответ!"
+
+#: models/ura-registration-form-model.php:685
+msgid ""
+"<strong>ERROR</strong>: Your anti-spam math problem answer is incorrect! Try "
+"using your calculator if you are having problems!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Ваш анти-спам математическую задачу Ответ неверный! "
+"Попробуйте использовать калькулятор, если у вас возникли проблемы!"
+
+#: models/ura-registration-form-model.php:713
+msgid "<strong>ERROR</strong>: You have not selected a question for "
+msgstr "<strong>ОШИБКА:</strong> Вы не выбрали вопрос для"
+
+#: models/ura-registration-form-model.php:717
+msgid "<strong>ERROR</strong>: There is no answer for "
+msgstr "<strong>ОШИБКА:</strong> Там нет ответа на"
+
+#: models/ura-style-options-model.php:29
+msgid ""
+"Borders are detached (border-spacing and empty-cells properties will not be "
+"ignored). This is default"
+msgstr ""
+"Границы отдельные (границы расстояния и пустые клетки-свойства не будут "
+"проигнорированы). Это по умолчанию"
+
+#: models/ura-style-options-model.php:30
+msgid ""
+"Borders are collapsed into a single border when possible (border-spacing and "
+"empty-cells properties will be ignored)"
+msgstr ""
+"Границы свернуты в одну границу, когда это возможно (границы расстояния и "
+"пустые клетки-свойства будут проигнорированы)"
+
+#: models/ura-style-options-model.php:31 models/ura-style-options-model.php:61
+msgid "Sets this property to its default value"
+msgstr "Устанавливает это свойство в значение по умолчанию"
+
+#: models/ura-style-options-model.php:32 models/ura-style-options-model.php:62
+msgid "Inherits this property from its parent element"
+msgstr "Наследует это свойство от своего родительского элемента"
+
+#: models/ura-style-options-model.php:51
+msgid "Default value. Specifies no border"
+msgstr "Значение по умолчанию. Задает отсутствие границы"
+
+#: models/ura-style-options-model.php:52
+msgid ""
+"The same as none, except in border conflict resolution for table elements"
+msgstr ""
+"Так же, как никто, за исключением разрешения конфликтов границ для элементов "
+"таблицы"
+
+#: models/ura-style-options-model.php:53
+msgid "Specifies a dotted border"
+msgstr "Указывает пунктирную границу"
+
+#: models/ura-style-options-model.php:54
+msgid "Specifies a dashed border"
+msgstr "Указывает пунктирную границу"
+
+#: models/ura-style-options-model.php:55
+msgid "Specifies a solid border"
+msgstr "Определяет твердую границу"
+
+#: models/ura-style-options-model.php:56
+msgid "Specifies a double border"
+msgstr "Указывает двойную границу"
+
+#: models/ura-style-options-model.php:57
+msgid ""
+"Specifies a 3D grooved border. The effect depends on the border-color value"
+msgstr ""
+"Определяет рифленую границу 3D. Эффект зависит от величины границы цвета"
+
+#: models/ura-style-options-model.php:58
+msgid ""
+"Specifies a 3D ridged border. The effect depends on the border-color value"
+msgstr ""
+"Определяет ребристых границы 3D. Эффект зависит от величины границы цвета"
+
+#: models/ura-style-options-model.php:59
+msgid ""
+"Specifies a 3D inset border. The effect depends on the border-color value"
+msgstr "Определяет границу 3D врезку. Эффект зависит от величины границы цвета"
+
+#: models/ura-style-options-model.php:60
+msgid ""
+"Specifies a 3D outset border. The effect depends on the border-color value"
+msgstr "Определяет 3D боковик границу. Эффект зависит от величины границы цвета"
+
+#: models/ura-style-options-model.php:88
+msgid "Style Options Updated Successfully!"
+msgstr "Параметры стиля успешно обновлен!"
+
+#: models/ura-style-options-model.php:98
+msgid " Border Style Missing! "
+msgstr "Пограничный Стиль пропали без вести!"
+
+#: models/ura-style-options-model.php:107
+msgid " Border Collapse Missing! "
+msgstr "Пограничный Collapse пропали без вести!"
+
+#: models/ura-style-options-model.php:116
+msgid " Border Width Missing! "
+msgstr "Пограничный Ширина без вести!"
+
+#: models/ura-style-options-model.php:125
+msgid " Border Color Missing! "
+msgstr "Цвет рамки пропали без вести!"
+
+#: models/ura-style-options-model.php:134
+msgid " Table Background Color Missing! "
+msgstr "Таблица Цвет фона без вести!"
+
+#: models/ura-style-options-model.php:143
+msgid " Table Color Missing! "
+msgstr "Таблица цвета пропали без вести!"
+
+#: models/ura-style-options-model.php:152
+msgid " Border Spacing Missing! "
+msgstr "Граница Разнос пропали без вести!"
+
+#: models/ura-style-options-model.php:161
+msgid " Division Color Missing! "
+msgstr "Отдел цвета пропали без вести!"
+
+#: models/ura-style-options-model.php:170
+msgid " Table Padding Missing! "
+msgstr "Таблица Перетяжка пропали без вести!"
+
+#: models/ura-support-model.php:40
+msgid "Support Options Updated Successfully!"
+msgstr "Варианты поддержки успешно обновлен!"
+
+#: models/ura-xwrd-change-model.php:73
+msgid "Password options updated successfully!"
+msgstr "Параметры Пароль успешно обновлен!"
+
+#: models/ura-xwrd-strength-options-model.php:60
+msgid " Custom Password Strength Requirement Option "
+msgstr "Пользовательские Надежность пароля Требование Опция"
+
+#: models/ura-xwrd-strength-options-model.php:67
+#: models/ura-xwrd-strength-options-model.php:74
+#: models/ura-xwrd-strength-options-model.php:121
+#: models/ura-xwrd-strength-options-model.php:128
+msgid " Minimum Password Length Requirement Option "
+msgstr "Минимальная длина пароля Требования Опция"
+
+#: models/ura-xwrd-strength-options-model.php:81
+#: models/ura-xwrd-strength-options-model.php:135
+msgid " Password Strength Requirement Option Upper Case Letter "
+msgstr "Пароль к силе Требование Вариант буква верхнего регистра"
+
+#: models/ura-xwrd-strength-options-model.php:88
+msgid " Password Strength Requirement Option Lower Case Letter "
+msgstr "Пароль к силе Требование Вариант строчной буквы"
+
+#: models/ura-xwrd-strength-options-model.php:95
+#: models/ura-xwrd-strength-options-model.php:149
+msgid " Password Strength Requirement Option Number "
+msgstr "Пароль к силе Номер Требование Вариант"
+
+#: models/ura-xwrd-strength-options-model.php:102
+#: models/ura-xwrd-strength-options-model.php:156
+msgid " Password Strength Requirement Option Special Character "
+msgstr "Пароль к силе Требование Опция специальных символов"
+
+#: models/ura-xwrd-strength-options-model.php:142
+msgid " Password Strength Requirement Option Lower Case Letter"
+msgstr "Пароль к силе Требование Вариант строчной буквы"
+
+#: models/ura-xwrd-strength-options-model.php:171
+msgid " Default Password Strength Requirement Option "
+msgstr "По умолчанию пароль к силе Требование Вариант"
+
+#: models/ura-xwrd-strength-options-model.php:176
+msgid "New Password Strength Requirement Options updated successfully."
+msgstr "Новые возможности Требование надежности пароля успешно обновлены."
+
+#: models/ura-xwrd-strength-options-model.php:179
+msgid ""
+"Show Password Fields on Profile/User Edit Page Option empty, not updated "
+"successfully."
+msgstr ""
+"Показать пароль Поля в профиле / User Edit Опция страницы пуста, не была "
+"успешно обновлена."
+
+#: models/ura-xwrd-strength-options-model.php:204
+msgid "<strong>ERROR</strong>: Please enter and confirm your Password!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Пожалуйста , введите и подтвердите свой ​​пароль!"
+
+#: models/ura-xwrd-strength-options-model.php:210
+msgid ""
+"<strong>ERROR</strong>: Username and Password are the same, they must be "
+"different!"
+msgstr ""
+"<strong>ОШИБКА:</strong> Имя пользователя и пароль те же, они должны быть "
+"разными!"
+
+#: models/ura-xwrd-strength-options-model.php:216
+msgid "<strong>ERROR</strong>: Password length too short! Should be at least "
+msgstr ""
+"<strong>ОШИБКА:</strong> Длина пароля слишком короткий! Должно быть, по "
+"крайней мере"
+
+#: views/ura-add-options-view.php:38
+msgid "Add Additional Field Options: "
+msgstr "Добавить Дополнительные параметры Поле:"
+
+#: views/ura-add-options-view.php:41
+msgid "New Field Option Parent Title: "
+msgstr "Новое поле Вариант Родитель Название:"
+
+#: views/ura-add-options-view.php:42
+msgid "Field Option Key and Title: "
+msgstr "Поле Варианты настройки ключа и Название:"
+
+#: views/ura-add-options-view.php:54
+msgid "Select the parent title of the field you want to add an option to here:"
+msgstr ""
+"Выберите родительский название поля, которое нужно добавить опцию здесь:"
+
+#: views/ura-add-options-view.php:56
+msgid "Select the parent field to add the field option to here!"
+msgstr "Выберите родительскую поле для добавления поля параметров здесь!"
+
+#: views/ura-add-options-view.php:72
+msgid ""
+"Enter your new field option key here. Please make sure you have selected the "
+"correct Parent Title!"
+msgstr ""
+"Введите ваш новый ключ параметр поле здесь. Пожалуйста, убедитесь, что вы "
+"выбрали правильный заголовок родительского!"
+
+#: views/ura-add-options-view.php:75
+msgid ""
+"Enter your new field option name here. Please make sure you have selected the "
+"correct Parent Title!"
+msgstr ""
+"Введите новое имя поля параметра здесь. Пожалуйста, убедитесь, что вы выбрали "
+"правильный заголовок родительского!"
+
+#: views/ura-add-options-view.php:85
+#: views/ura-edit-new-field-options-view.php:230
+#: views/ura-field-order-title-view.php:101
+#: views/ura-field-order-title-view.php:179 views/ura-field-type-view.php:80
+#: views/ura-option-order-view.php:133
+msgid ""
+"No new fields currently exist, you have to add new fields on the main page "
+"before you can change the order!"
+msgstr ""
+"Нет новых полей в настоящее время не существует, вы должны добавить новые "
+"поля на главной странице, прежде чем вы можете изменить порядок!"
+
+#: views/ura-add-options-view.php:94
+msgid "Add Field Option"
+msgstr "Добавление поля Option"
+
+#: views/ura-agreement-view.php:38
+msgid ""
+"Add Your Own Agreement Message and Policy Link with Confirmation of Agreement "
+"to Bottom of Registration Form:"
+msgstr ""
+"Добавить свое собственное соглашение сообщение и политики Ссылка с "
+"подтверждением соглашения донизу регистрационной формы:"
+
+#: views/ura-agreement-view.php:42
+msgid ""
+"Choose to add a special message to bottom of registration form for new users "
+"requiring them to read and agree to terms and conditions of the website:"
+msgstr ""
+"Выберите, чтобы добавить специальное сообщение для нижней части "
+"регистрационной формы для новых пользователей, требующих их читать и согласны "
+"с условиями на сайте:"
+
+#: views/ura-agreement-view.php:45
+msgid "Show Custom Link for Agreement/Guidelines/Policy Page: "
+msgstr ""
+"Показать Пользовательские Ссылка на соглашение / Руководство / Политика "
+"Страница:"
+
+#: views/ura-agreement-view.php:46
+msgid ""
+"Select this option to show link for custom agreement message page on "
+"registration page"
+msgstr ""
+"Выберите этот параметр, чтобы показать ссылку на странице сообщения "
+"пользовательского соглашения на странице регистрации"
+
+#: views/ura-agreement-view.php:48 views/ura-agreement-view.php:61
+#: views/ura-agreement-view.php:69 views/ura-dashWidget-view.php:48
+#: views/ura-display-name-view.php:52 views/ura-display-name-view.php:127
+#: views/ura-edit-reg-form-fields-view.php:236
+#: views/ura-edit-reg-form-fields-view.php:251 views/ura-math-view.php:47
+#: views/ura-math-view.php:60 views/ura-math-view.php:74
+#: views/ura-math-view.php:87 views/ura-math-view.php:100
+#: views/ura-profile-title-view.php:47 views/ura-redirect-view.php:58
+#: views/ura-redirect-view.php:72 views/ura-reg-form-css-view.php:125
+#: views/ura-reg-form-css-view.php:137 views/ura-reg-form-css-view.php:234
+#: views/ura-reg-form-css-view.php:245 views/ura-reg-form-css-view.php:272
+#: views/ura-reg-form-css-view.php:282 views/ura-reg-form-css-view.php:311
+#: views/ura-reg-form-css-view.php:333 views/ura-reg-form-css-view.php:360
+#: views/ura-reg-form-css-view.php:389 views/ura-reg-form-css-view.php:433
+#: views/ura-reg-form-msgs-view.php:45 views/ura-reg-form-msgs-view.php:136
+#: views/ura-support-view.php:46 views/ura-xwrd-change-options-view.php:46
+#: views/ura-xwrd-change-options-view.php:56
+#: views/ura-xwrd-change-options-view.php:121
+#: views/ura-xwrd-change-options-view.php:133
+#: views/ura-xwrd-change-options-view.php:148
+#: views/ura-xwrd-strength-options-view.php:47
+#: views/ura-xwrd-strength-options-view.php:56
+#: views/ura-xwrd-strength-options-view.php:67
+#: views/ura-xwrd-strength-options-view.php:89
+#: views/ura-xwrd-strength-options-view.php:98
+#: views/ura-xwrd-strength-options-view.php:109
+#: views/ura-xwrd-strength-options-view.php:118
+msgid "Yes"
+msgstr "Да"
+
+#: views/ura-agreement-view.php:49
+msgid ""
+"Select this option to NOT show link for custom agreement message page on "
+"registration page"
+msgstr ""
+"Выберите этот параметр, чтобы не показывать ссылку на странице сообщения "
+"пользовательского соглашения на странице регистрации"
+
+#: views/ura-agreement-view.php:51 views/ura-agreement-view.php:64
+#: views/ura-agreement-view.php:72 views/ura-dashWidget-view.php:51
+#: views/ura-display-name-view.php:54 views/ura-display-name-view.php:129
+#: views/ura-edit-reg-form-fields-view.php:240
+#: views/ura-edit-reg-form-fields-view.php:255 views/ura-math-view.php:51
+#: views/ura-math-view.php:64 views/ura-math-view.php:78
+#: views/ura-math-view.php:91 views/ura-math-view.php:104
+#: views/ura-profile-title-view.php:50 views/ura-redirect-view.php:61
+#: views/ura-redirect-view.php:75 views/ura-reg-form-css-view.php:129
+#: views/ura-reg-form-css-view.php:141 views/ura-reg-form-css-view.php:238
+#: views/ura-reg-form-css-view.php:249 views/ura-reg-form-css-view.php:276
+#: views/ura-reg-form-css-view.php:286 views/ura-reg-form-css-view.php:315
+#: views/ura-reg-form-css-view.php:337 views/ura-reg-form-css-view.php:364
+#: views/ura-reg-form-css-view.php:393 views/ura-reg-form-css-view.php:437
+#: views/ura-reg-form-msgs-view.php:48 views/ura-reg-form-msgs-view.php:139
+#: views/ura-support-view.php:48 views/ura-xwrd-change-options-view.php:49
+#: views/ura-xwrd-change-options-view.php:59
+#: views/ura-xwrd-change-options-view.php:125
+#: views/ura-xwrd-change-options-view.php:137
+#: views/ura-xwrd-change-options-view.php:151
+#: views/ura-xwrd-strength-options-view.php:50
+#: views/ura-xwrd-strength-options-view.php:59
+#: views/ura-xwrd-strength-options-view.php:70
+#: views/ura-xwrd-strength-options-view.php:92
+#: views/ura-xwrd-strength-options-view.php:101
+#: views/ura-xwrd-strength-options-view.php:112
+#: views/ura-xwrd-strength-options-view.php:121
+msgid "No"
+msgstr "Нет"
+
+#: views/ura-agreement-view.php:53
+msgid "Enter a title to display for link to Agreement/Guidelines/Policies URL: "
+msgstr ""
+"Введите заголовок для отображения для ссылки на соглашения / Руководство / "
+"Политики URL:"
+
+#: views/ura-agreement-view.php:54
+msgid ""
+"Enter the title for the URL where your agreement/guidelines/policy page is "
+"located."
+msgstr ""
+"Введите название для URL, где находится Ваш / руководящие принципы страница "
+"соглашения / политика."
+
+#: views/ura-agreement-view.php:55
+msgid "Enter Link to Agreement/Guidelines/Policies URL: "
+msgstr "Введите ссылку соглашения / Руководство / Политики URL:"
+
+#: views/ura-agreement-view.php:56
+msgid ""
+"Enter the URL where your agreement/guidelines/policy page is located . "
+"Example: (http://mysite.com/agreement.php)"
+msgstr ""
+"Введите URL-адрес, где находится ваш файл / рекомендации страница "
+"соглашения / политика. Пример: (http://mysite.com/agreement.php)"
+
+#: views/ura-agreement-view.php:58
+msgid "Show Message Confirming Agreement for Agreement/Guidelines/Policy Page: "
+msgstr ""
+"Показать сообщение, подтверждающее соглашение к Договору об / Руководство / "
+"Политика Страница:"
+
+#: views/ura-agreement-view.php:59
+msgid "Select this option to show custom agreement message on registration page"
+msgstr ""
+"Выберите этот параметр, чтобы показать пользовательского соглашения сообщение "
+"о странице регистрации"
+
+#: views/ura-agreement-view.php:62
+msgid ""
+"Select this option NOT to show custom agreement message on registration page"
+msgstr ""
+"Выберите этот параметр не показывать пользовательские соглашения сообщение о "
+"странице регистрации"
+
+#: views/ura-agreement-view.php:66
+msgid ""
+"Show Checkbox Confirming Agreement for Agreement/Guidelines/Policy Page: "
+msgstr ""
+"Показать Чекбокс Подтверждая соглашение к Договору об / Руководство / "
+"Политика Страница:"
+
+#: views/ura-agreement-view.php:67
+msgid ""
+"Select this option to show checkbox for user to check stating they agree to "
+"the agreement terms and conditions"
+msgstr ""
+"Выберите этот параметр, чтобы отобразить флажок для пользователя, чтобы "
+"проверить, заявляя, что они согласны с условиями соглашения"
+
+#: views/ura-agreement-view.php:70
+msgid ""
+"Select this option NOT to show checkbox for user to check stating they agree "
+"to the agreement terms and conditions"
+msgstr ""
+"Выберите этот параметр не показывать флажок для пользователя, чтобы "
+"проверить, заявляя, что они согласны с условиями соглашения"
+
+#: views/ura-agreement-view.php:74
+msgid ""
+"Add your special message below to add to bottom of registration form if new "
+"users must agree to terms or policies:"
+msgstr ""
+"Добавьте ваше специальное сообщение ниже, чтобы добавить в нижней части "
+"регистрационной формы, если новые пользователи должны согласиться с условиями "
+"или политики:"
+
+#: views/ura-agreement-view.php:77
+msgid ""
+"Enter a custom message here for bottom of registration form if users can "
+"create their own password or for other reasons!"
+msgstr ""
+"Введите пользовательское сообщение здесь для нижней части регистрационной "
+"формы, если пользователи могут создавать свой пароль или по другим причинам!"
+
+#: views/ura-agreement-view.php:82
+msgid "Update Registration Form Agreement Options"
+msgstr "Параметры Форма регистрации Внесение изменений в соглашение"
+
+#: views/ura-dashWidget-view.php:41
+msgid "Dashboard Widget Display Options"
+msgstr "Панель приборов Параметры отображения виджетов"
+
+#: views/ura-dashWidget-view.php:44
+msgid ""
+"Choose to display or not display the dashboard widget on the WordPress Admin "
+"page: "
+msgstr ""
+"Выберите, чтобы отобразить или не отображать виджет приборной панели на "
+"странице WordPress администратора:"
+
+#: views/ura-dashWidget-view.php:45
+msgid ""
+"Select this option to show the Creative Software Design Solutions Users table "
+"Dashboard Widget"
+msgstr ""
+"Выберите этот параметр, чтобы отобразить таблицу Solutions Пользователи "
+"Creative Software Design Dashboard Widget"
+
+#: views/ura-dashWidget-view.php:49
+msgid ""
+"Select this option NOT to show the Creative Software Design Solutions Users "
+"table Dashboard Widget"
+msgstr ""
+"Выберите этот параметр не показывать таблицу Solutions Пользователи Creative "
+"Software Design Dashboard Widget"
+
+#: views/ura-dashWidget-view.php:53
+msgid "Update Dashboard Widget Display Option"
+msgstr "Обновление Dashboard Widget Display Option"
+
+#: views/ura-dashWidget-view.php:57
+msgid ""
+"Here, you can select your own fields to show on the User Registration Aide "
+"Dashboard Widget."
+msgstr ""
+"Здесь вы можете выбрать свои собственные поля для отображения на регистрации "
+"пользователя Памятной Dashboard Widget."
+
+#: views/ura-dashWidget-view.php:58
+msgid ""
+"Note: You can only select a maximum of 5 fields due to the space constraints "
+"in the WordPress Dashboard! (Hold down the control key to select more than 1 "
+"field just like adding new fields to the registration form."
+msgstr ""
+"Примечание: Можно выбрать только максимум 5 полей из-за нехватки места в "
+"WordPress панели! (Удерживая нажатой клавишу управления, чтобы выбрать более "
+"1 поле так же, как добавление новых полей в регистрационной форме."
+
+#: views/ura-dashWidget-view.php:59
+msgid ""
+"You can only select up to 5 fields due to space limitations, just hold down "
+"the control key while selecting multiple fields."
+msgstr ""
+"Можно выбрать только до 5 полей из-за ограниченности пространства, просто "
+"удерживайте клавишу управления при выборе нескольких полей."
+
+#: views/ura-dashWidget-view.php:77
+msgid "Update Dashboard Widget Fields"
+msgstr "Обновление Dashboard Widget Поля"
+
+#: views/ura-dashWidget-view.php:93
+msgid "Set Dashboard Widget Field Order"
+msgstr "Набор виджетов Dashboard порядка полей"
+
+#: views/ura-dashWidget-view.php:96
+msgid "Dashboard Widget Field Name: "
+msgstr "Панель Имя Widget Поле:"
+
+#: views/ura-dashWidget-view.php:97 views/ura-field-order-title-view.php:65
+msgid "Current Field Order: "
+msgstr "Текущее поле для заказа:"
+
+#: views/ura-dashWidget-view.php:111
+msgid ""
+"Make sure that there are no duplicate field order numbers, like two fields "
+"having number 2 for their order!"
+msgstr ""
+"Убедитесь, что нет двух одинаковых номеров порядка полей, как два поля, "
+"имеющие номер 2 для их заказа!"
+
+#: views/ura-dashWidget-view.php:133
+msgid "Update Dashboard Widget Field Order"
+msgstr "Обновление Dashboard Widget Field Order"
+
+#: views/ura-dashWidget-view.php:172
+msgid "Quick Glance Current Site Users:"
+msgstr "Быстрый взгляд бывалых сайта:"
+
+#: views/ura-display-name-view.php:41
+msgid "Edit User Display Name Options Here:"
+msgstr "Измените параметры отображения имя пользователя здесь:"
+
+#: views/ura-display-name-view.php:45
+msgid "Display Name Choices"
+msgstr "Дисплей Название Выбор"
+
+#: views/ura-display-name-view.php:46
+msgid "Display Name Field"
+msgstr "Отоброжаемое имя поля"
+
+#: views/ura-display-name-view.php:47
+msgid "Display Name Role"
+msgstr "Отображаемое имя"
+
+#: views/ura-display-name-view.php:51 views/ura-display-name-view.php:124
+#: views/ura-display-name-view.php:133
+msgid ""
+"Using this option will remove the option for users to choose their own "
+"display name on the user profile and will give total control of user display "
+"names to the administrators of this site"
+msgstr ""
+"С помощью этой опции удалит возможность для пользователей, чтобы выбрать свое "
+"собственное отображаемое имя на профиле пользователя и даст полный контроль "
+"над отображение имен пользователей на администраторов этого сайта"
+
+#: views/ura-display-name-view.php:51
+msgid "Use Custom Display Name?: "
+msgstr "Используйте ПОЛЬЗ.ДИСПЛЕЙ Имя ?:"
+
+#: views/ura-display-name-view.php:59
+msgid "Select Display Name Fields Here:"
+msgstr "Выберите отображаемое имя поля здесь:"
+
+#: views/ura-display-name-view.php:60
+msgid ""
+"You can select the field(s) here that you want to use in place of the current "
+"default WordPress User Display Name which is the User Login"
+msgstr ""
+"Вы можете выбрать поле (я) здесь, что вы хотите использовать вместо текущей "
+"по умолчанию WordPress Display User Name, который является Пользователь Войти"
+
+#: views/ura-display-name-view.php:83
+msgid "Select Display Name Role Here:"
+msgstr "Выберите отображаемое имя роль здесь:"
+
+#: views/ura-display-name-view.php:84
+msgid ""
+"You can select the role here that you want to use for the Custom WordPress "
+"User Display Name or Select All Roles for everyone on the site"
+msgstr ""
+"Вы можете выбрать роль здесь, что вы хотите использовать для пользовательских "
+"WordPress Display User Name или выбрать все роли для всех на сайте"
+
+#: views/ura-display-name-view.php:90
+msgid "All Roles"
+msgstr "Все роли"
+
+#: views/ura-display-name-view.php:124
+msgid "Allow User To Update Own Display Name in User Profile: "
+msgstr ""
+"Разрешить пользователю обновлять собственный отображаемое имя в профиле "
+"пользователя:"
+
+#: views/ura-display-name-view.php:133
+msgid "New User Default Role: "
+msgstr "Новый пользователь По умолчанию Роль:"
+
+#: views/ura-display-name-view.php:134
+msgid ""
+"You can select the role here that you want to use for the Default WordPress "
+"New User Sign-up"
+msgstr ""
+"Вы можете выбрать роль здесь, что вы хотите использовать для WordPress По "
+"умолчанию новый пользователь Зарегистрировать"
+
+#: views/ura-display-name-view.php:158
+msgid "Anyone can register"
+msgstr "Любой желающий может зарегистрироваться"
+
+#: views/ura-display-name-view.php:164
+msgid "Update Display Name Options"
+msgstr "Параметры обновления дисплея Имя"
+
+#: views/ura-display-name-view.php:170
+msgid ""
+"Change Existing Users Display Names to Your Custom Display Name Field - "
+"Current Display Name Field:"
+msgstr ""
+"Изменение существующих пользователей Отображение имен к вашему ПОЛЬЗ.ДИСПЛЕЙ "
+"Имя поля - текущее отображаемое имя поля:"
+
+#: views/ura-display-name-view.php:172
+msgid ""
+"CAUTION - THIS CAN TAKE QUITE SOME TIME IF YOU HAVE A SLOW SERVER OR LOTS OF "
+"USERS!!"
+msgstr ""
+"ВНИМАНИЕ - ЭТО может занять некоторое время, если у вас медленный-сервер или "
+"множество пользователей !!"
+
+#: views/ura-display-name-view.php:174
+msgid ""
+"Changes the Current Users Display Names to the Field of Your Choice and "
+"Creates Backup Existing User Display Names to the User-Meta Table in Case you "
+"Wish to Go Back to The Default WordPress Display Name"
+msgstr ""
+"Изменение текущих пользователей отображаемых имен в поле вашего выбора и "
+"создает резервные существующий дисплей пользователя имен в User-Meta таблицы "
+"в случае если вы хотите вернуться к умолчанию WordPress Display Name"
+
+#: views/ura-display-name-view.php:174
+msgid "Update Display Names"
+msgstr "Обновление отображения имен"
+
+#: views/ura-display-name-view.php:178
+msgid "Restore Existing Users Display Names to WordPress Default Display Name:"
+msgstr ""
+"Восстановление существующих пользователей отображения имен в WordPress по "
+"умолчанию Display Name:"
+
+#: views/ura-display-name-view.php:180
+msgid ""
+"Restores Existing Users Display Names to the Default WordPress Display Name "
+"From the Backup Created When Display Names Were Customized"
+msgstr ""
+"Восстановление существующих пользователей Отображение имен в WordPress по "
+"умолчанию Display Name из резервной копии создается при Display имена "
+"Индивидуальные"
+
+#: views/ura-display-name-view.php:180
+msgid "Restore Default Display Names"
+msgstr "Восстановить значения по умолчанию отображает имена"
+
+#: views/ura-edit-new-field-options-view.php:37
+msgid ""
+"No new fields have been created, please go to the main page to add some new "
+"fields first before you try and edit them! "
+msgstr ""
+"Нет новых полей не были созданы, пожалуйста, перейдите на главную страницу, "
+"чтобы добавить некоторые новые поля, прежде чем пытаться изменить их!"
+
+#: views/ura-edit-new-field-options-view.php:47
+msgid "Edit Additional Fields Options for Profile &  Registration Form:"
+msgstr ""
+"Редактировать Дополнительные параметры полей для профилей и регистрационную "
+"форму:"
+
+#: views/ura-edit-new-field-options-view.php:52
+msgid "Delete New Field Options"
+msgstr "Удалить Параметры новое поле"
+
+#: views/ura-edit-new-field-options-view.php:53
+msgid "Edit New Field Options Titles"
+msgstr "Редактировать Новое поле Опции в заголовках"
+
+#: views/ura-edit-new-field-options-view.php:58
+msgid "Here you can delete new field options!"
+msgstr "Здесь вы можете удалить новые параметры поля!"
+
+#: views/ura-edit-new-field-options-view.php:71
+msgid "Field Options Parent Title: "
+msgstr "Поля параметров родительского название:"
+
+#: views/ura-edit-new-field-options-view.php:72
+msgid "New Field Options: "
+msgstr "Настройки поля"
+
+#: views/ura-edit-new-field-options-view.php:90
+#: views/ura-edit-new-field-options-view.php:112
+msgid "Select an Option to Delete Here"
+msgstr "Выберите вариант, чтобы удалить здесь"
+
+#: views/ura-edit-new-field-options-view.php:114
+msgid "No Options Currently Exist for This Field!"
+msgstr "Нет Опции В настоящее время не существует для этого поля!"
+
+#: views/ura-edit-new-field-options-view.php:125
+msgid "Delete Field Option"
+msgstr "Удалить поле Опция"
+
+#: views/ura-edit-new-field-options-view.php:132
+msgid ""
+" No new fields currently exist, you have to add new fields on the main page "
+"before you can create and delete options!"
+msgstr ""
+"Нет новых полей в настоящее время не существует, вы должны добавить новые "
+"поля на главной странице, прежде чем вы можете создавать и удалять варианты!"
+
+#: views/ura-edit-new-field-options-view.php:145
+msgid ""
+"Here you can change the option name displayed to the user for the new "
+"additional fields on the registration form and profile. !"
+msgstr ""
+"Здесь вы можете изменить имя параметра, отображаемое пользователю для новых "
+"дополнительных полей регистрационной формы и профиля. !"
+
+#: views/ura-edit-new-field-options-view.php:158
+msgid "Field Option Parent Title: "
+msgstr "Поле Варианты настройки Родитель Название:"
+
+#: views/ura-edit-new-field-options-view.php:159
+msgid "Field Option Title: "
+msgstr "Поле Варианты настройки Название:"
+
+#: views/ura-edit-new-field-options-view.php:170
+#: views/ura-edit-new-field-options-view.php:174
+msgid "Hover over the Option Title to View the Option Key"
+msgstr "Наведите курсор мыши название опции для просмотра клавишу Option"
+
+#: views/ura-edit-new-field-options-view.php:182
+#, php-format
+msgid "Field Option Key: - - %s - - Edit your field option name here"
+msgstr "Поле параметра ключа:--%s--редактировать ваш вариант в поле имя здесь"
+
+#: views/ura-edit-new-field-options-view.php:210
+msgid "Edit your field option name here"
+msgstr "Измените поле имя опции здесь"
+
+#: views/ura-edit-new-field-options-view.php:216
+msgid "NO OPTIONS AT THIS TIME"
+msgstr "Нет опций в это время"
+
+#: views/ura-edit-new-field-options-view.php:237
+msgid "Update Field Option Title Names"
+msgstr "Обновление Поле Варианты настройки Название Названия"
+
+#: views/ura-edit-number-view.php:45
+msgid "Edit Number Input Type Options for Fields:"
+msgstr "Изменить номер Варианты типа входа для полей:"
+
+#: views/ura-edit-number-view.php:49 views/ura-field-type-view.php:40
+msgid "Field Title: "
+msgstr "Заголовок поля"
+
+#: views/ura-edit-number-view.php:50
+msgid "Minimum Number: "
+msgstr "Минимальное количество:"
+
+#: views/ura-edit-number-view.php:51
+msgid "Maximum Number: "
+msgstr "Максимальное количество"
+
+#: views/ura-edit-number-view.php:52
+msgid "Number Step: "
+msgstr "Номер шага:"
+
+#: views/ura-edit-number-view.php:78 views/ura-input-new-field-view.php:189
+msgid "Enter the minimum number to use for your number input box"
+msgstr "Введите минимальное число, чтобы использовать для ввода номера"
+
+#: views/ura-edit-number-view.php:86 views/ura-input-new-field-view.php:197
+msgid "Enter the maximum number to use for your number input box"
+msgstr "Введите максимальное число использовать для ввода номера"
+
+#: views/ura-edit-number-view.php:94 views/ura-input-new-field-view.php:205
+msgid ""
+"Enter the number to increment by in your number select box ( 1, 2, 5 which "
+"are the numbers that would be used, like 5 would be 5,10,15,20 like that )"
+msgstr ""
+"Введите номер, чтобы увеличить на ваш номер поле выбора (1, 2, 5, которые "
+"являются числами, которые будут использоваться, как 5 будет 5,10,15,20 "
+"подобное)"
+
+#: views/ura-edit-number-view.php:105
+msgid "No Number Fields Currently Exist!"
+msgstr "Нет Количество полей в настоящее время не существует!"
+
+#: views/ura-edit-number-view.php:112
+msgid "Update Number Options"
+msgstr "Параметры обновления Количество"
+
+#: views/ura-edit-reg-form-fields-view.php:39
+msgid "Delete Fields & Change Fields Required for Registration Form:"
+msgstr "Удалить поля & изменить поля, необходимые для регистрации формы:"
+
+#: views/ura-edit-reg-form-fields-view.php:45
+msgid ""
+"Delete Fields: <br/>Here you can select the new additional fields you added "
+"that you want to delete."
+msgstr ""
+"Удалить поля: <br/> Здесь вы можете выбрать новые дополнительные поля, "
+"которые вы добавили, что вы хотите удалить."
+
+#: views/ura-edit-reg-form-fields-view.php:46
+msgid ""
+"Please choose a field to delete here, you can only select one field at a time "
+"to delete however"
+msgstr ""
+"Пожалуйста, выберите поле для удаления здесь, можно выбрать только одно поле "
+"в то время, чтобы удалить однако"
+
+#: views/ura-edit-reg-form-fields-view.php:54
+msgid "Delete New Field"
+msgstr "Удалить поле?"
+
+#: views/ura-edit-reg-form-fields-view.php:57
+msgid ""
+"No new fields currently exist, you have to add new fields on the main page "
+"before you can delete any!"
+msgstr ""
+"Нет новых полей в настоящее время не существует, вы должны добавить новые "
+"поля на главной странице, прежде чем можно удалить любой!"
+
+#: views/ura-edit-reg-form-fields-view.php:61
+msgid ""
+"By default, Wordpress will only require an email address and username to "
+"register an account. Here, you can select additional fields that will be "
+"added for new user registration."
+msgstr ""
+"По умолчанию Wordpress потребуется только адрес электронной почты и имя "
+"пользователя для регистрации учетной записи. Здесь вы можете выбрать "
+"дополнительные поля, которые будут добавлены для регистрации нового "
+"пользователя."
+
+#: views/ura-edit-reg-form-fields-view.php:64
+msgid "Select Additional Fields to add to the Registration Form:"
+msgstr "Выберите Дополнительные поля для добавления в регистрационную форму:"
+
+#: views/ura-edit-reg-form-fields-view.php:66
+msgid ""
+"You can select as many fields here as you want, just hold down the control "
+"key while selecting multiple fields. These fields are required on the "
+"registration form, so if you can do without them and just have them on the "
+"user profile page then leave them out of the registration form!"
+msgstr ""
+"Вы можете выбрать столько полей здесь, как вы хотите, просто удерживая "
+"нажатой клавишу управления при выборе нескольких полей. Эти поля обязательные "
+"для заполнения в регистрационной форме, так что если вы можете обойтись без "
+"них и просто иметь их на странице профиля пользователя затем оставить их из "
+"регистрационной формы!"
+
+#: views/ura-edit-reg-form-fields-view.php:129
+#: views/ura-edit-reg-form-fields-view.php:213
+msgid ""
+"Hold down \"Ctrl\" button on keyboard to select or unselect multiple options!"
+msgstr ""
+"Удерживая нажатой кнопку \"Ctrl\" на клавиатуре, чтобы выбрать или отменить "
+"выбор нескольких вариантов!"
+
+#: views/ura-edit-reg-form-fields-view.php:133
+#: views/ura-edit-reg-form-fields-view.php:217
+msgid "Select None"
+msgstr "Ничего не выбирать"
+
+#: views/ura-edit-reg-form-fields-view.php:135
+msgid "Update Registration Form Fields"
+msgstr "Обновление Поля Регистрационная форма"
+
+#: views/ura-edit-reg-form-fields-view.php:138
+msgid "Here you can select whether Registration Form Fields are required or not"
+msgstr ""
+"Здесь вы можете выбрать, требуется ли Регистрационная форма Поля или нет"
+
+#: views/ura-edit-reg-form-fields-view.php:141
+msgid ""
+"Select Registration Form Fields That Will NOT BE REQUIRED for Users to Fill "
+"out When Registering:"
+msgstr ""
+"Выберите Регистрационная форма Поля, которые не будут необходимы для "
+"пользователей, чтобы заполнить при регистрации:"
+
+#: views/ura-edit-reg-form-fields-view.php:143
+msgid ""
+"You can select as many fields here as you want, just hold down the control "
+"key while selecting multiple fields. Selecting these fields makes them so "
+"they are NOT REQUIRED FIELDS on the registration form!"
+msgstr ""
+"Вы можете выбрать, как много полей здесь, как вы хотите, просто удерживайте "
+"нажатой клавишу control при выборе нескольких полей. Выбор этих полей делает "
+"их, поэтому они не необходимые поля регистрационной формы!"
+
+#: views/ura-edit-reg-form-fields-view.php:172
+msgid ""
+"There currently are no fields selected for the Registration Form, Select some "
+"fields for the Registration Form first before you can make them optional or "
+"required!"
+msgstr ""
+"Там в настоящее время отсутствуют поля, выбранные для регистрационной форме, "
+"выберите некоторые поля в регистрационной форме, прежде чем вы можете сделать "
+"их обязательными или необязательными!"
+
+#: views/ura-edit-reg-form-fields-view.php:205
+msgid "no_fields_0"
+msgstr "no_fields_0"
+
+#: views/ura-edit-reg-form-fields-view.php:205
+msgid "No Registration Form Fields"
+msgstr "Нет регистрации полей формы"
+
+#: views/ura-edit-reg-form-fields-view.php:206
+msgid "no_fields_1"
+msgstr "no_fields_1"
+
+#: views/ura-edit-reg-form-fields-view.php:206
+msgid "Have Been Added Yet!"
+msgstr "Были добавлены еще!"
+
+#: views/ura-edit-reg-form-fields-view.php:219
+msgid "Required Fields Update"
+msgstr "Обязательные поля Обновление"
+
+#: views/ura-edit-reg-form-fields-view.php:227
+msgid "Registration Form Field Title Punctuation"
+msgstr "Форма регистрации поле Название пунктуация"
+
+#: views/ura-edit-reg-form-fields-view.php:231
+msgid ""
+"Use the * ( Asterisk ) on the Registration Form to Designate a Field is "
+"Required"
+msgstr ""
+"Используйте * (звездочка) на регистрационную форму в разделе Назначение поле "
+"обязательно для заполнения"
+
+#: views/ura-edit-reg-form-fields-view.php:234
+msgid ""
+"Select this option to use the * ( Asterisk ) to Designate a Required Field on "
+"the Registration Form( Field Title:* ( if using colon, you can remove that "
+"too! ), otherwise Field Title* )"
+msgstr ""
+"Выберите этот параметр, чтобы использовать звездочки (*) назначить "
+"обязательные для заполнения поля на регистрационную форму (название поля: * "
+"(если используется двоеточие, вы можете удалить это тоже), в противном случае "
+"поле Название *)"
+
+#: views/ura-edit-reg-form-fields-view.php:238
+msgid ""
+"Select this option not to use the * ( Asterisk ) to Designate a Required "
+"Field on the Registration Form ( Field Title: ( if using colon, you can "
+"remove that too! ), otherwise Field Title )"
+msgstr ""
+"Выберите этот параметр, чтобы не использовать звездочки (*) назначить "
+"обязательные для заполнения поля на регистрационную форму (название поля: "
+"(если используется двоеточие, вы можете удалить это тоже), в противном случае "
+"поле заголовка)"
+
+#: views/ura-edit-reg-form-fields-view.php:246
+msgid "Use the : ( Colon ) on the Registration Form after Field Title"
+msgstr "Используйте: (двоеточие) в регистрационной форме после названия поля"
+
+#: views/ura-edit-reg-form-fields-view.php:249
+msgid ""
+"Select this option to use the : ( Colon ) After the Field Title on the "
+"Registration Form ( Field Title: )"
+msgstr ""
+"Выберите этот параметр, чтобы использовать: (двоеточие) После того, как поле "
+"заголовка в регистрационной форме (название поля:)"
+
+#: views/ura-edit-reg-form-fields-view.php:253
+msgid ""
+"Select this option to not use the : ( Colon ) After the Field Title on the "
+"Registration Form ( Field Title )"
+msgstr ""
+"Выберите этот параметр, чтобы не использовать: (двоеточие) После того, как "
+"поле заголовка в регистрационной форме (поле Title)"
+
+#: views/ura-edit-reg-form-fields-view.php:260
+msgid "Update Field Title Punctuation Option"
+msgstr "Обновление поле Название пунктуация Опция"
+
+#: views/ura-field-order-title-view.php:38
+msgid "Edit New Field Orders and Titles"
+msgstr "Изменение заказов новое поле и в заголовках"
+
+#: views/ura-field-order-title-view.php:41
+msgid "Edit New Field Order"
+msgstr "Редактировать поле Новый Order"
+
+#: views/ura-field-order-title-view.php:42
+msgid "Edit New Field Name"
+msgstr "Изменить название New Field"
+
+#: views/ura-field-order-title-view.php:50
+msgid ""
+"Here you can select or change the order for the new additional fields on the "
+"registration form and profile. You must not have the same number twice, so "
+"make sure you change all fields accordingly so there are no duplicates or you "
+"will generate an error!"
+msgstr ""
+"Здесь вы можете выбрать или изменить порядок для новых дополнительных полей "
+"регистрационной формы и профиля. Вы не должны иметь один и тот же номер "
+"дважды, поэтому убедитесь, что вы изменили все поля, соответственно, так что "
+"нет никаких дубликатов или вы будете генерировать ошибку!"
+
+#: views/ura-field-order-title-view.php:64
+msgid "Additional New Field Name: "
+msgstr "Дополнительное название Новое поле:"
+
+#: views/ura-field-order-title-view.php:77
+msgid ""
+"Edit your new field order here. Make sure that there are no duplicate field "
+"order numbers, like two fields having number 2 for their order!"
+msgstr ""
+"Измените ваш новый порядок полей здесь. Убедитесь, что номера заказов не "
+"повторяющиеся поля, как два поля, имеющие номер 2 для их порядок!"
+
+#: views/ura-field-order-title-view.php:94
+msgid "Update Field Order"
+msgstr "Обновление Заказать поле"
+
+#: views/ura-field-order-title-view.php:114
+msgid ""
+"Here you can change the field name displayed to the user for the new "
+"additional fields on the registration form and profile. !"
+msgstr ""
+"Здесь вы можете изменить имя поля, отображаемое пользователю для новых "
+"дополнительных полей регистрационной формы и профиля. !"
+
+#: views/ura-field-order-title-view.php:126
+msgid "Additional New Field ID: "
+msgstr "Дополнительное Новое поле ID:"
+
+#: views/ura-field-order-title-view.php:127
+msgid "Current Field Title: "
+msgstr "Текущее поле Название:"
+
+#: views/ura-field-order-title-view.php:161
+#: views/ura-field-order-title-view.php:166
+msgid "Edit your field name here"
+msgstr "Измените имя поля здесь"
+
+#: views/ura-field-order-title-view.php:186
+msgid "Update Field Names"
+msgstr "Обновление имен полей"
+
+#: views/ura-field-type-view.php:37
+msgid "Change Field Type: "
+msgstr "изменить тип поля"
+
+#: views/ura-field-type-view.php:41
+msgid "Field Type: "
+msgstr "Тип поля :"
+
+#: views/ura-field-type-view.php:58
+msgid "Select the field type to change to"
+msgstr "Выберите тип поля для изменения в"
+
+#: views/ura-field-type-view.php:88
+msgid "Change Field Type"
+msgstr "изменить тип поля"
+
+#: views/ura-input-new-field-view.php:90
+msgid "Create Custom Fields Of Various Input Types Here:"
+msgstr "Создание пользовательских полей различных типов ввода здесь:"
+
+#: views/ura-input-new-field-view.php:98
+msgid ""
+"Here is where you can enter your custom additional fields, the key name "
+"should be lower "
+msgstr ""
+"Вот где вы можете ввести дополнительные настраиваемые поля, имя ключа должен "
+"быть ниже"
+
+#: views/ura-input-new-field-view.php:100
+msgid ""
+"case and correlate to the field name that the user sees on the registration "
+"form and profile."
+msgstr ""
+"корпус и сопоставлять имя поля, которое пользователь видит на регистрационной "
+"формы и профиля."
+
+#: views/ura-input-new-field-view.php:102
+msgid "Examples:"
+msgstr "Примеры:"
+
+#: views/ura-input-new-field-view.php:110
+msgid "Field Key Name: dob"
+msgstr "Имя поля ключа"
+
+#: views/ura-input-new-field-view.php:111
+msgid "Field Type: Select (Drop Down)"
+msgstr "Поле Тип: Выберите (Drop Down)"
+
+#: views/ura-input-new-field-view.php:112
+msgid "Registration Form: Yes/No"
+msgstr "Форма регистрации: Да / Нет"
+
+#: views/ura-input-new-field-view.php:113
+msgid "Field Required: Yes/No"
+msgstr "Обязательное поле: Да / Нет"
+
+#: views/ura-input-new-field-view.php:120
+msgid ""
+"Enter the database name for your field here, like dob for Date of Birth or "
+"full_name, use lower case letters and _ (underscores) ONLY! Keep it short and "
+"simple and relative to the field you are creating!"
+msgstr ""
+"Введите имя базы данных для вашего поля здесь, как DOB для Дата рождения или "
+"FULL_NAME, используйте строчные буквы и _ (подчеркивание) ТОЛЬКО! Держите его "
+"коротким и простым, и по отношению к полю вы создаете!"
+
+#: views/ura-input-new-field-view.php:127
+msgid ""
+"Select the input type for your new custom field here from select, text, "
+"textarea, radio or checkbox"
+msgstr ""
+"Выберите тип входа для вашего нового пользовательского поля здесь от выбора, "
+"текст, текстовое поле, радио или флажок"
+
+#: views/ura-input-new-field-view.php:143
+msgid ""
+"Choose Yes to use this field on the Registration Form or No not to use it on "
+"Registration Form"
+msgstr ""
+"Выберите значение Да, чтобы использовать это поле на регистрационной форме "
+"или нет, чтобы не использовать его на регистрационной форме"
+
+#: views/ura-input-new-field-view.php:159
+msgid "Select whether the new field is required or not here"
+msgstr "Выберите, требуется ли новое поле или нет здесь"
+
+#: views/ura-input-new-field-view.php:180
+msgid ""
+"You can select the minimum number to display, maximum number to display and "
+"the step, or increment to use, like 5,10,15 for 5 or 2,4,6,8 for 2 or 1,2,3 "
+"for 1."
+msgstr ""
+"Вы можете выбрать минимальное количество, чтобы отобразить, максимальное "
+"количество для отображения и шаг или приращение использовать, например, для "
+"5,10,15 5 или 2,4,6,8 для 2 или 1,2,3 для 1."
+
+#: views/ura-input-new-field-view.php:181
+msgid "Only use these choices if your Field Type is a number"
+msgstr "Используйте только этот выбор, если ваш тип поля число"
+
+#: views/ura-input-new-field-view.php:218
+msgid ""
+"Enter the user friendly name for your field here, like Date of Birth for dob, "
+"ect. Keep it short & simple and relative to the field you are creating!"
+msgstr ""
+"Введите понятное имя пользователя для вашего поля здесь, как дата рождения "
+"DOB, ЭСТ. Держите его коротким и простым и по отношению к полю вы создаете!"
+
+#: views/ura-input-new-field-view.php:322
+msgid "Add New Field"
+msgstr "Добавить новое поле"
+
+#: views/ura-math-view.php:38
+msgid "Edit Anti-Bot-Spammer Options for Registration Form:"
+msgstr "Редактировать параметры Bot-спамер для регистрационной формы:"
+
+#: views/ura-math-view.php:43
+msgid ""
+"Choose to add a anti-spammer anti-bot math problem to the registration form "
+"to help reduce spammers and bots accessing your site and spamming it: "
+msgstr ""
+"Выберите, чтобы добавить анти-спамер анти-бот математическую задачу к "
+"регистрационной форме, чтобы помочь уменьшить спамеров и ботов доступ к "
+"вашему сайту и спамить его:"
+
+#: views/ura-math-view.php:45
+msgid ""
+"Select this option to activate the anti-spam math problem to registration form"
+msgstr ""
+"Выберите этот параметр, чтобы активировать анти-спам математическую задачу к "
+"регистрационной форме"
+
+#: views/ura-math-view.php:49 views/ura-math-view.php:62
+#: views/ura-math-view.php:76 views/ura-math-view.php:89
+#: views/ura-math-view.php:102
+msgid ""
+"Select this option to de-activate the anti-spam math problem to registration "
+"form"
+msgstr ""
+"Выберите этот параметр, чтобы отключить функцию защиты от нежелательной почты "
+"математическую задачу к регистрационной форме"
+
+#: views/ura-math-view.php:56
+msgid "Choose this option to use division in the anti-spam math problem:"
+msgstr ""
+"Выберите этот параметр, чтобы использовать разделение в анти-спам задачи по "
+"математике:"
+
+#: views/ura-math-view.php:58
+msgid ""
+"Select this option to use division in the anti-spam math problem on the "
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать разделение в анти-спам задачи по "
+"математике в форме регистрации"
+
+#: views/ura-math-view.php:70
+msgid "Choose this option to use multiplication in the anti-spam math problem:"
+msgstr ""
+"Выберите этот параметр, чтобы использовать умножение в анти-спам задачи по "
+"математике:"
+
+#: views/ura-math-view.php:72
+msgid ""
+"Select this option to use multiplication in the anti-spam math problem on the "
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать умножение в анти-спам задачи по "
+"математике в форме регистрации"
+
+#: views/ura-math-view.php:83
+msgid "Choose this option to use subtraction in the anti-spam math problem:"
+msgstr ""
+"Выберите этот параметр, чтобы использовать вычитание в анти-спам задачи по "
+"математике:"
+
+#: views/ura-math-view.php:85
+msgid ""
+"Select this option to use subtraction in the anti-spam math problem on the "
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать вычитание в анти-спам задачи по "
+"математике в форме регистрации"
+
+#: views/ura-math-view.php:96
+msgid "Choose this option to use addition in the anti-spam math problem:"
+msgstr ""
+"Выберите этот параметр, чтобы использовать добавление в анти-спам задачи по "
+"математике:"
+
+#: views/ura-math-view.php:98
+msgid ""
+"Select this option to use addition in the anti-spam math problem on the "
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать добавление в анти-спам задачи по "
+"математике в форме регистрации"
+
+#: views/ura-math-view.php:110
+msgid "Update Anti-Bot-Spammer Math Problem Options"
+msgstr "Обновление Anti-Bot-Спамерские Опции математическую задачу"
+
+#: views/ura-option-order-view.php:51
+msgid "Edit Options Order Here:"
+msgstr "Изменить параметры заказа здесь:"
+
+#: views/ura-option-order-view.php:54
+msgid "Parent Field Name:"
+msgstr "Родитель Имя поля:"
+
+#: views/ura-option-order-view.php:55
+msgid "Option Order:"
+msgstr "Вариант заказа:"
+
+#: views/ura-option-order-view.php:73 views/ura-option-order-view.php:113
+msgid "Parent Title for options - Read Only! Change Title above!"
+msgstr ""
+"Родитель Название варианты - только для чтения! Изменение Заголовок выше!"
+
+#: views/ura-option-order-view.php:77
+msgid "Select the new field order here for your options"
+msgstr "Выберите новое поле заказ здесь ваши варианты"
+
+#: views/ura-option-order-view.php:120
+msgid "No Options Exist"
+msgstr "Нет Опции Exist"
+
+#: views/ura-option-order-view.php:121
+msgid "This Field Currently Has no Options! Please add Some Options Below!"
+msgstr ""
+"Это поле в настоящее время не имеет параметров! Пожалуйста, добавьте "
+"несколько вариантов ниже!"
+
+#: views/ura-option-order-view.php:143
+msgid "Update Option Order"
+msgstr "Обновление Вариант заказа"
+
+#: views/ura-profile-title-view.php:39
+msgid "Change Extra Field Title Options For User Profile Pages:"
+msgstr ""
+"Изменить параметры название дополнительного поля для страницы профиля "
+"пользователя:"
+
+#: views/ura-profile-title-view.php:43
+msgid "Choose to change the title for extra fields on the users profile page: "
+msgstr ""
+"Выберите, чтобы изменить название для дополнительных полей на странице "
+"профиля пользователя:"
+
+#: views/ura-profile-title-view.php:45
+msgid ""
+"Select this option to add your own special title to the extra fields portion "
+"of the users profile"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный специальный титул в части "
+"профиля пользователей дополнительные поля"
+
+#: views/ura-profile-title-view.php:48
+msgid ""
+"Select this option to keep the default title to the extra fields portion of "
+"the users profile"
+msgstr ""
+"Выберите этот параметр, чтобы сохранить название по умолчанию к той части "
+"пользователей Дополнительные поля профиля"
+
+#: views/ura-profile-title-view.php:51
+msgid "Extra Fields Title: "
+msgstr "Дополнительное Название Поля:"
+
+#: views/ura-profile-title-view.php:57
+msgid "Update Profile Title Options"
+msgstr "Параметры обновления профиля Заголовок"
+
+#: views/ura-profile-view.php:122
+msgid "Naughty, Naughty! You do not have permissions to do this!"
+msgstr "Капризный капризный! У вас нет прав, чтобы сделать это!"
+
+#: views/ura-redirect-view.php:50
+msgid "Add Custom Redirects After Users Login or a New User Registers Here:"
+msgstr ""
+"Добавление пользовательских перенаправляет после входа в систему "
+"пользователей или новый пользователь регистрируется здесь:"
+
+#: views/ura-redirect-view.php:54
+msgid ""
+"Choose to redirect users to a different page than default WordPress page "
+"after successful registration: "
+msgstr ""
+"Выберите для перенаправления пользователей на другую страницу, которая по "
+"умолчанию страницы WordPress после успешной регистрации:"
+
+#: views/ura-redirect-view.php:56
+msgid ""
+"Select this option to redirect new user to custom page after successsful new "
+"registration signup"
+msgstr ""
+"Выберите этот параметр, чтобы перенаправить пользователя на новую страницу "
+"после таможенной successsful новой регистрации на Citidesk.ru"
+
+#: views/ura-redirect-view.php:59
+msgid ""
+"Select this option to redirect new user to default WordPress page after "
+"successful new user registration sign-up"
+msgstr ""
+"Выберите этот параметр для перенаправления нового пользователя по умолчанию "
+"WordPress страницу после успешной регистрации нового пользователя подписки"
+
+#: views/ura-redirect-view.php:63
+msgid "Enter new successful Registration form redirect url below: "
+msgstr "Введите новый успешный регистрационную форму перенаправление url ниже:"
+
+#: views/ura-redirect-view.php:65
+msgid ""
+"Enter a new url here to redirect users to after a successful registration has "
+"been completed!"
+msgstr ""
+"Введите новый URL здесь, чтобы перенаправить пользователей после успешной "
+"регистрации завершена!"
+
+#: views/ura-redirect-view.php:69
+msgid ""
+"Choose to redirect users to a different page than default WordPress page "
+"after successful login: "
+msgstr ""
+"Выберите для перенаправления пользователей на другую страницу, которая по "
+"умолчанию страницы WordPress после успешного входа в систему:"
+
+#: views/ura-redirect-view.php:70
+msgid ""
+"Select this option to redirect new user to custom page after successful login"
+msgstr ""
+"Выберите этот параметр для перенаправления нового пользователя на "
+"пользовательскую страницу после успешного входа в систему"
+
+#: views/ura-redirect-view.php:73
+msgid ""
+"Select this option to redirect new user to default WordPress page after "
+"successful login"
+msgstr ""
+"Выберите этот параметр для перенаправления нового пользователя по умолчанию "
+"WordPress страницу после успешного входа"
+
+#: views/ura-redirect-view.php:77
+msgid "Enter new successful login redirect url below: "
+msgstr "Введите новый успешный Войти URL переадресации ниже:"
+
+#: views/ura-redirect-view.php:80
+msgid ""
+"Enter a new url here to redirect users to after a successful login has been "
+"completed!"
+msgstr ""
+"Введите новый URL здесь, чтобы перенаправить пользователей после успешного "
+"Войти завершен!"
+
+#: views/ura-redirect-view.php:85
+msgid "Update Redirects Options"
+msgstr "Обновление Перенаправление Options"
+
+#: views/ura-reg-form-css-view.php:71
+msgid "Add Your Own Logo and Registration Form Customizations:"
+msgstr ""
+"Добавить свой собственный логотип и регистрационная форма пользовательских "
+"настроек:"
+
+#: views/ura-reg-form-css-view.php:114
+msgid "Add Your Own Logo and Registration Form CSS Style Customizations Here:"
+msgstr ""
+"Добавьте свой собственный логотип и регистрационная форма CSS стиль настройки "
+"здесь:"
+
+#: views/ura-reg-form-css-view.php:121
+msgid "Show Custom Logo: "
+msgstr "Показать пользовательский логотип"
+
+#: views/ura-reg-form-css-view.php:123
+msgid "Select this option to show your own logo on the login-registration pages"
+msgstr ""
+"Выберите этот параметр, чтобы показать свой собственный логотип на Логин-"
+"регистрация страниц"
+
+#: views/ura-reg-form-css-view.php:127
+msgid ""
+"Select this option to show the default WordPress logo on the login-"
+"registration pages"
+msgstr ""
+"Выберите этот параметр, чтобы показать по умолчанию Wordpress логотип на "
+"Логин-регистрация страниц в"
+
+#: views/ura-reg-form-css-view.php:133
+msgid "Change Custom Logo Link: "
+msgstr "Изменение пользовательского логотипа Ссылка:"
+
+#: views/ura-reg-form-css-view.php:135
+msgid ""
+"Select this option to add your own logo link to the logo on the login-"
+"registration pages, automatically defaults to your site homepage!"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный логотип ссылку на логотип "
+"на Логин-регистрации страниц, автоматически по умолчанию на сайт домашней "
+"странице!"
+
+#: views/ura-reg-form-css-view.php:139
+msgid ""
+"Select this option to use the default Wordpress logo link on the logo on the "
+"login-registration pages"
+msgstr ""
+"Выберите этот параметр, чтобы использовать Wordpress логотип ссылку по "
+"умолчанию на логотип на Логин-регистрационных страницах"
+
+#: views/ura-reg-form-css-view.php:144
+msgid "Custom Logo Width: "
+msgstr "Пользовательская ширина логотипа"
+
+#: views/ura-reg-form-css-view.php:149 views/ura-reg-form-css-view.php:156
+msgid ""
+"Change this option to modify your own logo size ( width ) on the login-"
+"registration pages"
+msgstr ""
+"Измените этот параметр, чтобы изменить свой собственный размер логотипа "
+"(ширина) на Логин-регистрация страниц"
+
+#: views/ura-reg-form-css-view.php:150
+msgid ""
+"This is done automatically and is read only unless it cannot get your image "
+"size, then you can enter the correct width size in px format here for your "
+"new logo for your register/login page -- ( 220px ), otherwise it may screw up "
+"your logo image"
+msgstr ""
+"Это делается автоматически и считывается только, если он не может получить "
+"ваш размер изображения, то вы можете ввести правильную ширину размер px "
+"формат здесь для ваш новый логотип для Регистрация/Войти страницы--(220px), "
+"иначе он может привинчить вверх ваш логотип"
+
+#: views/ura-reg-form-css-view.php:157
+msgid ""
+"Select the correct width size here for your new logo for your register/login "
+"page -- ( 220px )"
+msgstr ""
+"Выберите правильную ширину размер здесь для ваш новый логотип для Регистрация/"
+"Войти страницы--(220px)"
+
+#: views/ura-reg-form-css-view.php:177
+msgid "Custom Logo Height: "
+msgstr "Высота логотипа"
+
+#: views/ura-reg-form-css-view.php:182
+msgid "logo size ( height ) on the login-registration pages"
+msgstr "размер логотипа (высота) на Логин-регистрация страниц"
+
+#: views/ura-reg-form-css-view.php:183
+msgid ""
+"This is done automatically and is read only unless it cannot get your image "
+"size, then you can manually enter the correct height size in px format here "
+"for your new logo for your register/login page -- ( 110px ), otherwise it may "
+"screw up your logo image"
+msgstr ""
+"Это делается автоматически и считывается только, если он не может получить "
+"ваш размер изображения, то вы можете вручную ввести правильную высоту размер "
+"px формат здесь для ваш новый логотип для Регистрация/Войти страницы--"
+"(110px), иначе он может привинчить вверх ваш логотип"
+
+#: views/ura-reg-form-css-view.php:189
+msgid ""
+"Change this option to modify your own logo size ( height ) on the login-"
+"registration pages"
+msgstr ""
+"Измените этот параметр, чтобы изменить свой собственный размер логотипа "
+"(высота) на Логин-регистрация страниц"
+
+#: views/ura-reg-form-css-view.php:190
+msgid ""
+"Select the correct height size in here for your new logo for your register/"
+"login page -- ( 110px )"
+msgstr ""
+"Выберите правильную высоту размер здесь для ваш новый логотип для Регистрация/"
+"Войти страницы--(110px)"
+
+#: views/ura-reg-form-css-view.php:213
+msgid "New Logo URL: "
+msgstr "Новый логотип URL:"
+
+#: views/ura-reg-form-css-view.php:215
+msgid ""
+"Enter the URL where your new logo is for your register/login page -- (http://"
+"mysite.com/wp-content/uploads/9/5/thislogo.png)"
+msgstr ""
+"Введите URL, где ваш новый логотип для вашей страницы регистрации / входа в "
+"систему - (http://mysite.com/wp-content/uploads/9/5/thislogo.png)"
+
+#: views/ura-reg-form-css-view.php:230
+msgid "Show Custom Background Image: "
+msgstr "Пользовательские фоновое изображение"
+
+#: views/ura-reg-form-css-view.php:232
+msgid ""
+"Select this option to add your own custom background image on the login-"
+"registration form"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный пользовательский фоновое "
+"изображение на форме регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:236
+msgid ""
+"Select this option to use the default Wordpress background image on the login-"
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию фоновое изображение в "
+"Wordpress на форме регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:241
+msgid "Repeat Custom Background Image: "
+msgstr "Повтор фонового изображения:"
+
+#: views/ura-reg-form-css-view.php:243
+msgid ""
+"Select this option to repeat ( tile ) your own custom background image on the "
+"login-registration form"
+msgstr ""
+"Выберите эту опцию, чтобы повторить (плитку) свой собственный "
+"пользовательский фоновое изображение на форме регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:247
+msgid ""
+"Select this option to not repeat ( tile ) the custom background image on the "
+"login-registration form"
+msgstr ""
+"Выберите этот параметр, чтобы не повторять (плитка) фоновое пользовательское "
+"изображение на форме регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:252
+msgid "New Background Image URL: "
+msgstr "URL фонового изображения"
+
+#: views/ura-reg-form-css-view.php:253
+msgid ""
+"Enter the URL where your new background image is for your login/register "
+"forms --  (http://mysite.com/wp-content/uploads/9/5/this-background-image.png)"
+msgstr ""
+"Введите URL, где ваш новый фоновое изображение для входа в систему форм / "
+"Регистр - (http://mysite.com/wp-content/uploads/9/5/this-background-image.png)"
+
+#: views/ura-reg-form-css-view.php:269
+msgid "Show Custom Page Background Image: "
+msgstr "Показать Пользовательские фоновое изображение страницы:"
+
+#: views/ura-reg-form-css-view.php:270
+msgid ""
+"Select this option to add your own custom background image on the login-"
+"registration page"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный пользовательский фоновое "
+"изображение на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:274
+msgid ""
+"Select this option to use the default Wordpress background image on the login-"
+"registration page"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию фоновое изображение "
+"на Wordpress на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:279
+msgid "Repeat Custom Page Background Image: "
+msgstr "Повторите Пользовательские фоновое изображение страницы:"
+
+#: views/ura-reg-form-css-view.php:280 views/ura-reg-form-css-view.php:309
+msgid ""
+"Select this option to repeat ( tile ) your own custom background image on the "
+"login-registration page"
+msgstr ""
+"Выберите эту опцию, чтобы повторить (плитку) собственного фонового "
+"изображения на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:284
+msgid ""
+"Select this option to repeat your custom background image on the login-"
+"registration page"
+msgstr ""
+"Выберите эту опцию, чтобы повторить фоновое пользовательское изображение на "
+"странице Логин-регистрации"
+
+#: views/ura-reg-form-css-view.php:289
+msgid "Custom Page Background Image Position: "
+msgstr "Пользовательские установки фоновое изображение страницы:"
+
+#: views/ura-reg-form-css-view.php:290
+msgid ""
+"Select this option to position your own custom background image on the login-"
+"registration page"
+msgstr ""
+"Выберите этот параметр, чтобы расположить свой собственный пользовательский "
+"фоновое изображение на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:291
+msgid "You can select where to place your image here"
+msgstr "Вы можете выбрать, куда поместить изображение здесь"
+
+#: views/ura-reg-form-css-view.php:308
+msgid "Repeat Custom Page Background Image Horizontally Only: "
+msgstr ""
+"Повторите Пользовательские фоновое изображение страницы только по горизонтали:"
+
+#: views/ura-reg-form-css-view.php:313
+msgid ""
+"Select this option to repeat your custom background image horizontally only "
+"on the login-registration page"
+msgstr ""
+"Выберите эту опцию, чтобы повторить фоновое пользовательское изображение "
+"только по горизонтали на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:318
+msgid "New Page Background Image URL: "
+msgstr "Новый URL фоновое изображение страницы:"
+
+#: views/ura-reg-form-css-view.php:320
+msgid ""
+"Enter the new page background image url for your register/login pages (http://"
+"mysite.com/content/uploads/myimage.png)"
+msgstr ""
+"Введите новое фоновое изображение страницы URL для входа в систему "
+"зарегистрироваться / страниц (http://mysite.com/content/uploads/myimage.png)"
+
+#: views/ura-reg-form-css-view.php:330
+msgid "Show Custom Form Background Color: "
+msgstr "Показать пользовательский цвет фона формы:"
+
+#: views/ura-reg-form-css-view.php:331
+msgid ""
+"Select this option to add your own custom background color on the login-"
+"registration form"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный цвет фона на форме Войти "
+"регистрация"
+
+#: views/ura-reg-form-css-view.php:335
+msgid ""
+"Select this option to use the default Wordpress background color on the login-"
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию Wordpress цвет фона "
+"на форме регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:348
+msgid "New Background Color: "
+msgstr "Цвет Фона:"
+
+#: views/ura-reg-form-css-view.php:357
+msgid "Show Custom Page Background Color: "
+msgstr "Показать Пользовательские страницы Цвет фона:"
+
+#: views/ura-reg-form-css-view.php:358
+msgid ""
+"Select this option to add your own custom background color on the login-"
+"registration page"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свой собственный цвет фона на странице "
+"регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:362
+msgid ""
+"Select this option to use the default Wordpress background color on the login-"
+"registration page"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию Wordpress цвет фона "
+"на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:375
+msgid "New Page Background Color: "
+msgstr "Цвет фона страницы"
+
+#: views/ura-reg-form-css-view.php:386
+msgid "Show Custom Text/Links Colors: "
+msgstr "Показать пользовательский текст / Ссылки Цвета:"
+
+#: views/ura-reg-form-css-view.php:387
+msgid ""
+"Select this option to add your own custom text and link colors on the login-"
+"registration page"
+msgstr ""
+"Выберите эту опцию, чтобы добавить свои собственные пользовательские "
+"текстовые и цвета ссылок на странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:391
+msgid ""
+"Select this option to use the default Wordpress text and link colors on the "
+"login-registration page"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию Wordpress текста и "
+"цвета ссылок на на странице Логин-регистрации"
+
+#: views/ura-reg-form-css-view.php:404
+msgid "New Text/Links Color: "
+msgstr "Новый текст / ссылки Цвет:"
+
+#: views/ura-reg-form-css-view.php:416
+msgid "New Links Hover Color: "
+msgstr "Ссылки: Hover Color"
+
+#: views/ura-reg-form-css-view.php:429
+msgid ""
+"If you select this option to add your own custom link shadow size and colors "
+"on the login-registration page you must change shadow size from 0px too!"
+msgstr ""
+"Выберите эту опцию, чтобы добавить собственную ссылку размер теней и цвета на "
+"странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:429
+msgid "Show Link Shadows: "
+msgstr "Показывать ссылку Тени:"
+
+#: views/ura-reg-form-css-view.php:431
+msgid ""
+"Select this option to add your own custom link shadow size and colors on the "
+"login-registration page"
+msgstr ""
+"Выберите эту опцию, чтобы добавить собственную ссылку размер теней и цвета на "
+"странице регистрации Логин"
+
+#: views/ura-reg-form-css-view.php:435
+msgid ""
+"Select this option to use the default Wordpress link shadow size and colors "
+"on the login-registration page"
+msgstr ""
+"Выберите этот параметр, чтобы использовать по умолчанию Wordpress ссылка "
+"размер теней и цветов на на странице Логин-регистрации"
+
+#: views/ura-reg-form-css-view.php:439
+msgid ""
+"If you select to show link shadows this must be higher than 0px, you must "
+"change it to at least 1px otherwise the program will automatically adjust it "
+"to 1px!"
+msgstr ""
+"Если вы выберите, чтобы показать связь тени, это должно быть выше, чем 0px, "
+"вы должны изменить его для по крайней мере 1px иначе программа будет "
+"автоматически подстраиваться под его 1px!"
+
+#: views/ura-reg-form-css-view.php:439
+msgid "Shadow Size in PX: "
+msgstr "Тень Размер в PX:"
+
+#: views/ura-reg-form-css-view.php:440
+msgid ""
+"Enter the new size of shadow for login/registration page links in PX for your "
+"site! Example: 2px NOTE: Must be higher than default 0px if you choose to "
+"show link shadows! It will automatically adjust this to 1px if you do not, "
+"but you may want a different size so make sure you add your own size here!"
+msgstr ""
+"Введите новый размер тени для ссылки страницы входа/регистрации в PX для "
+"вашего сайта! Пример: 2px Примечание: должно быть выше, чем по умолчанию 0px, "
+"если вы решили показать ссылку тени! Он будет автоматически подстраиваться "
+"под это 1px если вы этого не сделаете, но может потребоваться другой размер "
+"поэтому убедитесь, что вы добавить свой собственный размер здесь!"
+
+#: views/ura-reg-form-css-view.php:464
+msgid "Shadow Color: "
+msgstr "Цвет тени"
+
+#: views/ura-reg-form-css-view.php:475
+msgid "Update Login-Reg Form Style Options"
+msgstr "Параметры обновления Логин-Reg Форма Стиль"
+
+#: views/ura-reg-form-msgs-view.php:37
+msgid ""
+"Add And Edit Your Own Custom Messages to Top and Bottom of Login & "
+"Registration Forms:"
+msgstr ""
+"Добавлять и редактировать свои собственные пользовательские сообщения на "
+"верхней и нижней части входа & регистрационные формы:"
+
+#: views/ura-reg-form-msgs-view.php:42
+msgid "Choose to add a special message to top of the registration form:"
+msgstr ""
+"Выберите, чтобы добавить специальное сообщение для верхней части "
+"регистрационной формы:"
+
+#: views/ura-reg-form-msgs-view.php:43
+msgid ""
+"Add your own custom messages to the top of the Wordpress login-registration-"
+"lost-password pages"
+msgstr ""
+"Добавить свои собственные сообщения в верхней части страницы Логин-"
+"регистрация-выплавляемым пароля Wordpress"
+
+#: views/ura-reg-form-msgs-view.php:46
+msgid ""
+"Use the default Wordpress messages for the login-registration-lost-password "
+"pages"
+msgstr ""
+"Используйте сообщения по умолчанию WordPress для страниц Логин-регистрация-"
+"выплавляемым пароля"
+
+#: views/ura-reg-form-msgs-view.php:53
+msgid "Enter new Login form message for top of login form here: "
+msgstr ""
+"Введите новое сообщение Войти Форма для верхней части формы входа здесь:"
+
+#: views/ura-reg-form-msgs-view.php:56
+msgid "Enter a custom message here for top of login form!"
+msgstr "Введите пользовательское сообщение здесь поверх формы входа!"
+
+#: views/ura-reg-form-msgs-view.php:60
+msgid "Enter new Registration form message for top of page here: "
+msgstr ""
+"Введите новый бланк регистрации сообщение для верхней части страницы здесь:"
+
+#: views/ura-reg-form-msgs-view.php:62
+msgid "Enter a custom message here for top of registration form!"
+msgstr ""
+"Введите пользовательское сообщение здесь для верхней части регистрационной "
+"формы!"
+
+#: views/ura-reg-form-msgs-view.php:66
+msgid "Enter additional new Login form message for top of login page here: "
+msgstr ""
+"Введите новый дополнительный Войти форма сообщение для верхней части страницы "
+"входа здесь:"
+
+#: views/ura-reg-form-msgs-view.php:69
+msgid "Enter an additional new custom message here for top of login form!"
+msgstr ""
+"Введите дополнительный новый пользовательский сообщение здесь для верхней "
+"части формы входа!"
+
+#: views/ura-reg-form-msgs-view.php:73
+msgid ""
+"Enter new Login form message for top of login page when users log out here: "
+msgstr ""
+"Введите новое сообщение Войти Форма для верхней части страницы входа при "
+"входе пользователей в систему здесь:"
+
+#: views/ura-reg-form-msgs-view.php:76
+msgid ""
+"Enter a custom message here for top of login form after user is logged out!"
+msgstr ""
+"Введите пользовательское сообщение здесь для верхней части формы входа в "
+"систему после того, как пользователь выходит из системы!"
+
+#: views/ura-reg-form-msgs-view.php:80
+msgid ""
+"Enter new Login Form message for top of Login Page after user succesfully "
+"registers here: "
+msgstr ""
+"Введите новое сообщение Войти Форма для верхней страницы входа после того, "
+"как пользователь успешно регистрирует здесь:"
+
+#: views/ura-reg-form-msgs-view.php:83
+msgid ""
+"Enter a custom message here for top of login form after user has succesfully "
+"registered!"
+msgstr ""
+"Введите пользовательское сообщение здесь для верхней части формы входа в "
+"систему после того, как пользователь успешно зарегистрирован!"
+
+#: views/ura-reg-form-msgs-view.php:87
+msgid ""
+"Enter new Lost Password Form message for top of Lost Password Page Here: "
+msgstr ""
+"Введите новый пароль Потерянный формы сообщение для верхней части утраченного "
+"Страница здесь:"
+
+#: views/ura-reg-form-msgs-view.php:90 views/ura-reg-form-msgs-view.php:109
+#: views/ura-reg-form-msgs-view.php:116 views/ura-reg-form-msgs-view.php:123
+msgid ""
+"Enter a custom message here for top of lost password form if user attempts to "
+"recover lost password!"
+msgstr ""
+"Введите пользовательское сообщение здесь сверху утраченной формы пароля, если "
+"пользователь пытается восстановить потерянный пароль!"
+
+#: views/ura-reg-form-msgs-view.php:94
+msgid ""
+"Enter new Lost Password Form Check Email Message for top of Lost Password "
+"Page Here After User has Submitted Lost Password Reset Request: "
+msgstr ""
+"Введите новый пароль Потерянный формы Проверка сообщения электронной почты "
+"для верхней части утраченного Страница Here После того, как пользователь "
+"подало запрос Потерянный Сброс пароля:"
+
+#: views/ura-reg-form-msgs-view.php:97
+msgid ""
+"Enter a custom message here for top of lost password form after user requests "
+"lost password reset!"
+msgstr ""
+"Введите пользовательское сообщение здесь сверху утраченной формы пароля после "
+"запросов пользователей потеряли сброса пароля!"
+
+#: views/ura-reg-form-msgs-view.php:106
+msgid "Enter New User Approve Registration Form Message Here: "
+msgstr "Введите нового пользователя Утвердить форму регистрации сообщения:"
+
+#: views/ura-reg-form-msgs-view.php:113
+msgid ""
+"Enter New User Approve Successful Registration Form Message Here Part 1: "
+msgstr ""
+"Вход Новый пользователь Утверждение успешной регистрации формы Сообщение "
+"здесь Часть 1:"
+
+#: views/ura-reg-form-msgs-view.php:120
+msgid ""
+"Enter New User Approve Successful Registration Form Message Here Part 2: "
+msgstr ""
+"Вход Новый пользователь Утверждение успешной регистрации формы Сообщение "
+"здесь Часть 2:"
+
+#: views/ura-reg-form-msgs-view.php:133
+msgid "Choose to add your own special message to bottom of registration form: "
+msgstr ""
+"Выберите, чтобы добавить свой собственный специальный сообщение для нижней "
+"части регистрационной формы:"
+
+#: views/ura-reg-form-msgs-view.php:134
+msgid ""
+"Select this option to add your own custom message to the bottom of the "
+"registration form"
+msgstr ""
+"Выберите эту опцию, чтобы добавить собственное сообщение в нижней части "
+"регистрационной формы"
+
+#: views/ura-reg-form-msgs-view.php:137
+msgid ""
+"Select this option to use the default Wordpress message on the bottom of the "
+"registration form"
+msgstr ""
+"Выберите этот параметр, чтобы использовать сообщение Wordpress по умолчанию "
+"на нижней части регистрационной формы"
+
+#: views/ura-reg-form-msgs-view.php:144
+msgid "Enter new Custom Bottom Registration Form Message Here: "
+msgstr "Введите новый заказ Bottom Регистрационная форма сообщения:"
+
+#: views/ura-reg-form-msgs-view.php:148
+msgid ""
+"Enter a custom message here for bottom of registration form if users can or "
+"even can&#39t create their own password!"
+msgstr ""
+"Введите пользовательское сообщение здесь для нижней части регистрационной "
+"формы, если пользователи могут или даже не может создать свой собственный "
+"пароль!"
+
+#: views/ura-reg-form-msgs-view.php:157
+msgid "Update Top & Bottom Registration Form Message Options"
+msgstr "Обновление Top & Bottom Параметры сообщения Регистрационная форма"
+
+#: views/ura-registration-form-view.php:43
+msgid "Strength Indicator"
+msgstr "Сложность пароля"
+
+#: views/ura-registration-form-view.php:167
+#: views/ura-registration-form-view.php:189
+msgid "Description"
+msgstr "Описание"
+
+#: views/ura-registration-form-view.php:355
+msgid "I Agree with the Terms and Conditions: "
+msgstr "Я согласен с Правилами и Условиями"
+
+#: views/ura-registration-form-view.php:363
+#: views/ura-registration-form-view.php:370
+msgid "I Agree"
+msgstr "Я принимаю"
+
+#: views/ura-registration-form-view.php:365
+#: views/ura-registration-form-view.php:372
+msgid "I Do Not Agree"
+msgstr "Я не согласен"
+
+#: views/ura-registration-form-view.php:394
+msgid ""
+"*Please complete the following arithmatic problem to prove you are human!*:"
+msgstr ""
+"* Пожалуйста, заполните следующую arithmatic проблему, чтобы доказать, что вы "
+"человек *:"
+
+#: views/ura-registration-form-view.php:399
+msgid " "
+msgstr ""
+
+#: views/ura-registration-form-view.php:399
+msgid " = "
+msgstr "="
+
+#: views/ura-registration-form-view.php:405
+msgid ""
+"Enter the answer to the artithmatic problem here! ***Important: In certain "
+"division problems, the answer may not be a whole number so just round UP to "
+"the nearest 10th(Example: 5/3 = 1.6666 rounded to the nearest tenth is 1.6!***"
+msgstr ""
+"Введите ответ на artithmatic проблемы здесь! *** Важно: В некоторых задачах "
+"разделения, ответ может не быть целым числом, так просто округлить до "
+"ближайшего 10-го (пример: 5/3 = 1.6666 с округлением до ближайшей десятой 1,6 "
+"***"
+
+#: views/ura-registration-form-view.php:461
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>ОШИБКА</strong>: Регистрация не удалась. Пожалуйста, свяжитесь с <a "
+"href=\"mailto:%s\">администрацией сайта</a>!"
+
+#: views/ura-registration-form-view.php:503
+msgid "Registration successful."
+msgstr "Регистрация прошла успешно."
+
+#: views/ura-style-options-view.php:40
+msgid "Choose Custom URA Style Options Here:"
+msgstr "Выберите Функции Пользовательские URA Стиль Здесь:"
+
+#: views/ura-style-options-view.php:47
+msgid "Choose Custom CSS Table Settings Here: "
+msgstr "Выберите Пользовательские CSS таблицы настройки здесь:"
+
+#: views/ura-style-options-view.php:70
+msgid "Select Table Border Style Here: "
+msgstr "Выберите таблицу стилей обрамления здесь:"
+
+#: views/ura-style-options-view.php:71
+msgid "Select Table Border Style Here"
+msgstr "Выберите таблицу стилей обрамления Здесь"
+
+#: views/ura-style-options-view.php:85
+msgid "Select Table Border Collapse Style Here: "
+msgstr "Выберите границы таблицы Свернуть Стиль здесь:"
+
+#: views/ura-style-options-view.php:86
+msgid "Select Table Border Collapse Style Here"
+msgstr "Выберите границы таблицы Свернуть Стиль Здесь"
+
+#: views/ura-style-options-view.php:100
+msgid "Select Table Border Width Here: "
+msgstr "Выбор границы таблицы Ширина здесь:"
+
+#: views/ura-style-options-view.php:101
+msgid "Select Table Border Width Here"
+msgstr "Выбор границы таблицы Ширина Здесь"
+
+#: views/ura-style-options-view.php:116
+msgid "Select Table Padding Here: "
+msgstr "Выберите таблицу Padding Здесь:"
+
+#: views/ura-style-options-view.php:117
+msgid "Select Table Padding Here"
+msgstr "Выберите таблицу Padding Здесь"
+
+#: views/ura-style-options-view.php:141
+msgid "Select Table Border Color Here: "
+msgstr "Выберите Цвет границы таблицы здесь:"
+
+#: views/ura-style-options-view.php:153
+msgid "Select Table Background Color Here: "
+msgstr "Выберите таблицу здесь фоновый цвет:"
+
+#: views/ura-style-options-view.php:165
+msgid "Select Table Text Color Here: "
+msgstr "Выберите таблицу Цвет текста Здесь:"
+
+#: views/ura-style-options-view.php:177
+msgid "Select Outside Table Background Color Here: "
+msgstr "Выберите Вне цвет фона таблицы здесь:"
+
+#: views/ura-style-options-view.php:184
+msgid "Select Table Border Spacing Here: "
+msgstr "Выбор границы таблицы Spacing здесь:"
+
+#: views/ura-style-options-view.php:185
+msgid "Select Table Border Spacing Here"
+msgstr "Выбор границы таблицы Spacing Здесь"
+
+#: views/ura-style-options-view.php:201
+msgid "Update Plugin Table Style Settings"
+msgstr "Обновление параметров Plugin Стиль таблицы"
+
+#: views/ura-support-view.php:41
+msgid "Please show your support & appreciation and help us out with a donation!"
+msgstr ""
+"Пожалуйста, покажите вашу поддержку & признательность и помочь нам с "
+"пожертвованием!"
+
+#: views/ura-support-view.php:45
+msgid "Show Plugin Support: "
+msgstr "Поддержка дополнения"
+
+#: views/ura-support-view.php:50
+msgid "Update Plugin Support"
+msgstr "Поддержка обновления плагинов"
+
+#: views/ura-support-view.php:54
+msgid "Plugin Configuration Help"
+msgstr "Настройки Плагина"
+
+#: views/ura-support-view.php:61
+msgid "Coming Soon 1.6.0.0 Verify New User Email, "
+msgstr ""
+"Приходить скоро 1.6.0.0 проверки новых сообщений электронной почты "
+"пользователя,"
+
+#: views/ura-support-view.php:63
+msgid " New User Approval, "
+msgstr "Подтверждение нового пользователя"
+
+#: views/ura-support-view.php:65
+msgid " and Login Protection Features to be Added!"
+msgstr "и функции защиты входа для добавления!"
+
+#: views/ura-support-view.php:66
+msgid "Check Official Website"
+msgstr "Проверьте официальный сайт"
+
+#: views/ura-xwrd-change-options-view.php:42
+msgid ""
+"Require Password Change After User Registers and Gets Password From Email: "
+msgstr ""
+"Требовать смену пароля После регистрации пользователя и получает пароль от "
+"электронной почты:"
+
+#: views/ura-xwrd-change-options-view.php:44
+msgid ""
+"Select this option to require new users who have registered for your site and "
+"received their Password from the default WordPress Email to change their "
+"password before logging in"
+msgstr ""
+"Выберите этот параметр, чтобы потребовать новых пользователей, которые "
+"зарегистрировались на сайте и получил их пароль по умолчанию WordPress Email "
+"изменить свой пароль перед входом в"
+
+#: views/ura-xwrd-change-options-view.php:47
+msgid ""
+"Select this option not to require new users to change their password before "
+"logging in"
+msgstr ""
+"Выберите этот параметр, чтобы не требовать новых пользователей, чтобы "
+"изменить свой пароль перед входом в"
+
+#: views/ura-xwrd-change-options-view.php:52
+msgid "Require Existing Users to Change Passwords After Specified Time Period: "
+msgstr ""
+"Требовать существующих пользователей Изменение паролей После определенного "
+"периода времени:"
+
+#: views/ura-xwrd-change-options-view.php:54
+msgid ""
+"Select this option to require current users to change passwords at selected "
+"intervals"
+msgstr ""
+"Выберите этот параметр, чтобы требовать текущих пользователей для изменения "
+"паролей через определенные промежутки времени"
+
+#: views/ura-xwrd-change-options-view.php:57
+msgid ""
+"Select this option not to require current users to change passwords at "
+"selected intervals"
+msgstr ""
+"Выберите этот параметр, чтобы не требовать текущих пользователей менять "
+"пароли через определенные промежутки времени"
+
+#: views/ura-xwrd-change-options-view.php:64
+msgid ""
+"Enter the amount of time in days between users having to change their "
+"passwords, the defaults are every 30 days up to one year. It is good security "
+"practice to require a password change at least every 6 months, or 180 days!"
+msgstr ""
+"Введите количество времени в днях между пользователями, имеющими менять свои "
+"пароли, значения по умолчанию каждые 30 дней до одного года. Это хорошая "
+"практика безопасности требует смены пароля по крайней мере, каждые 6 месяцев "
+"или 180 дней!"
+
+#: views/ura-xwrd-change-options-view.php:65
+msgid "Maximum Time Allowed in Days Between Password Change Dates: "
+msgstr "Максимальное время в дни между Пароль Изменить дату:"
+
+#: views/ura-xwrd-change-options-view.php:66
+msgid ""
+"You can select the maximum time allowed in days here before users are "
+"required to change their passwords. Good security practices call for 180 days"
+msgstr ""
+"Вы можете выбрать максимальное время, разрешенное в дни здесь прежде, чем "
+"пользователи должны изменить свои пароли. Тщательное соблюдение мер "
+"безопасности требуют 180 дней"
+
+#: views/ura-xwrd-change-options-view.php:84
+msgid ""
+"Select the number of times checked for password duplicates before allowing a "
+"duplicate password. For instance, a user has changed password 6 times before "
+"allowing duplicates would mean that on the 7th password change, the user "
+"could duplicate the first password they entered of those 6 passwords. This is "
+"useful to prevent users from entering the same 1 or 2 passwords over and over "
+"again making it easier to hack their accounts and your site!"
+msgstr ""
+"Выберите количество раз, проверку пароля дубликаты перед позволяя дублировать "
+"пароль. Например пользователь изменил пароль 6 раз, прежде чем разрешение "
+"дубликатов будет означать, что на 7 Смена пароля, пользователь может "
+"дублировать первый пароль, введенный из этих 6 пароли. Это позволяет "
+"запретить пользователям входить же 1 или 2 пароли над и над снова что делает "
+"его легче взломать их счета и ваш сайт!"
+
+#: views/ura-xwrd-change-options-view.php:84
+msgid "Maximum Password Changes Before Duplicates Allowed: "
+msgstr "Максимальные изменения пароля перед Дубликаты разрешены:"
+
+#: views/ura-xwrd-change-options-view.php:85
+msgid ""
+"You can select the number of password changes allowed before a user can enter "
+"a duplicate password. Useful for those users that use the same passwords over "
+"and over again which makes it easy to hack their accounts and your site! This "
+"option will eliminate that problem for the most part in addition to strong "
+"password strength requirements!"
+msgstr ""
+"Вы можете выбрать количество изменений пароля разрешенных перед пользователь "
+"может ввести пароль дубликат. Полезно для тех пользователей, которые "
+"используют одни и те же пароли снова и снова, что делает его легко взломать "
+"свои счета и ваш сайт! Эта опция позволит устранить эту проблему по большей "
+"части в дополнение к сильным требования к надежности пароля!"
+
+#: views/ura-xwrd-change-options-view.php:102
+#: views/ura-xwrd-change-options-view.php:104
+msgid ""
+"Only Add The Distinct Page Name Please!! ( EXAMPLE: change-password for page "
+"titled Change Password) No /( FORWARD SLASHES!!)"
+msgstr ""
+"Только Добавить отчетливое Название страницы пожалуйста !! (Пример: изменение-"
+"пароль для страницы под названием Изменение пароля) Нет / (Slashes !! ВПЕРЕД)"
+
+#: views/ura-xwrd-change-options-view.php:102
+msgid "Password Change Shortcode Page Name: "
+msgstr "Пароль Изменение имени Shortcode Страница:"
+
+#: views/ura-xwrd-change-options-view.php:109
+msgid "Only Add The Distinct Page Title!!"
+msgstr "Только добавить отчетливое Заголовок страницы !!"
+
+#: views/ura-xwrd-change-options-view.php:109
+msgid "Password Change Shortcode Page Title: "
+msgstr "Пароль Название Изменение Shortcode Страница:"
+
+#: views/ura-xwrd-change-options-view.php:111
+msgid ""
+"Only Add The Distinct Page Title Please!! (Change Password) No /(SLASHES!!)"
+msgstr ""
+"Только Добавить отчетливое Название странице, пожалуйста !! (Смена пароля) "
+"нет / (Slashes !!)"
+
+#: views/ura-xwrd-change-options-view.php:117
+msgid "Requires SSL Certificate on Website Server To Use SSL!"
+msgstr "Требуется сертификат SSL на веб-сайте сервера Для использования SSL!"
+
+#: views/ura-xwrd-change-options-view.php:117
+msgid "Use SSL(HTTPS://) Secure Page For Password Change Page: "
+msgstr "Использовать SSL (HTTPS: //) Secure Страница пароля Изменить Страница:"
+
+#: views/ura-xwrd-change-options-view.php:119
+msgid ""
+"Select this option to require SSL for Custom Password Change Page! NOTE: "
+"REQUIRES SSL CERTIFICATE ON WEBSITE!"
+msgstr ""
+"Выберите этот параметр, чтобы требовать SSL для пользовательского пароля "
+"Изменить страницу! Примечание: Версия SSL Certificate на интернет-сайте!"
+
+#: views/ura-xwrd-change-options-view.php:123
+msgid ""
+"Select this option to not use SSL on Custom Password Change Page! No "
+"Certificate Required, Use This Option if YOu Have No SSL Certificate!"
+msgstr ""
+"Выберите этот параметр, чтобы не использовать SSL на заказ Password Change "
+"Page! Нет Требуется сертификат, не используйте эту опцию, если у вас нет "
+"сертификата SSL!"
+
+#: views/ura-xwrd-change-options-view.php:129
+#: views/ura-xwrd-change-options-view.php:144
+msgid "This will not include Administrators!"
+msgstr "Это не будет включать в себя администраторов!"
+
+#: views/ura-xwrd-change-options-view.php:129
+msgid "Allow Lost Password Reset for Non-Admins: "
+msgstr "Разрешить утерянный пароль Reset для лиц без администраторов:"
+
+#: views/ura-xwrd-change-options-view.php:131
+msgid ""
+"Select this option to allow users to reset passwords with the lost password "
+"link on login page"
+msgstr ""
+"Выберите этот параметр, чтобы разрешить пользователям сбрасывать пароли со "
+"ссылкой утраченного пароля на странице входа"
+
+#: views/ura-xwrd-change-options-view.php:135
+msgid ""
+"Select this option to not allow users to reset passwords with the lost "
+"password link on login page"
+msgstr ""
+"Выберите этот параметр, чтобы не позволить пользователям сбрасывать пароли со "
+"ссылкой утраченного пароля на странице входа"
+
+#: views/ura-xwrd-change-options-view.php:144
+msgid ""
+"Show Password Fields on Profile/User Edit Page<b> (NOTE: WILL NOT UTILIZE "
+"PASSWORD STRENGTH OR PASSWORD CHANGE REQUIREMENTS!): "
+msgstr ""
+"Показать пароль Поля в профиле / User Edit Page <b>(Примечание: не будет "
+"использовать</b> надежности <b>пароля или пароля изменения требований!):</b>"
+
+#: views/ura-xwrd-change-options-view.php:146
+msgid ""
+"Select this option to allow users to change passwords on the user profile/"
+"edit page. NOTE: Will not enforce password strength or password change "
+"requirements!!!"
+msgstr ""
+"Выберите этот параметр, чтобы разрешить пользователям изменять пароли на "
+"странице профиля / редактирования пользователя. ПРИМЕЧАНИЕ: Не соблюдение "
+"требований надежности пароля или смены пароля !!!"
+
+#: views/ura-xwrd-change-options-view.php:149
+msgid ""
+"Select this option to not allow users to change passwords user profile/edit "
+"page"
+msgstr ""
+"Выберите этот параметр, чтобы не позволить пользователям изменять пароли "
+"профиль / редактировать страницу"
+
+#: views/ura-xwrd-change-options-view.php:156
+msgid "Update Password Change Options"
+msgstr "Обновление пароля Изменить параметры"
+
+#: views/ura-xwrd-strength-options-view.php:35
+msgid "Password Strength Requirements:"
+msgstr "Пароль к силе Требования:"
+
+#: views/ura-xwrd-strength-options-view.php:40
+msgid "Password Strength Requirements Option Settings:"
+msgstr "Пароль прочности требования варианта настройки:"
+
+#: views/ura-xwrd-strength-options-view.php:44
+msgid "Use Default Password Strength Requirements: "
+msgstr "Использовать по умолчанию Требования к надежности пароля:"
+
+#: views/ura-xwrd-strength-options-view.php:45
+msgid ""
+"Select this option to use the default password strength requirements (Upper "
+"Case, Lower Case letters, number and special character and minimum length of "
+"8)"
+msgstr ""
+"Выберите этот параметр, чтобы использовать требования к надежности пароля по "
+"умолчанию (верхний регистр, строчные буквы, числа и особый характер и "
+"минимальная длина 8)"
+
+#: views/ura-xwrd-strength-options-view.php:48
+msgid "Select this option not to use the default Password Strength Requirements"
+msgstr ""
+"Выберите этот параметр, чтобы не использовать требования к силе пароль по "
+"умолчанию"
+
+#: views/ura-xwrd-strength-options-view.php:53
+msgid "Use Custom Password Strength Requirements: "
+msgstr "Использование пользовательских требований надежности пароля:"
+
+#: views/ura-xwrd-strength-options-view.php:54
+msgid ""
+"Select this option to create your own custom password strength requirements"
+msgstr ""
+"Выберите этот параметр, чтобы создать свои собственные требования к прочности "
+"пользовательских паролей"
+
+#: views/ura-xwrd-strength-options-view.php:57
+msgid "Select this option not to use a custom Password Strength Requirements"
+msgstr ""
+"Выберите этот параметр, чтобы не использовать пользовательский Требования к "
+"надежности пароля"
+
+#: views/ura-xwrd-strength-options-view.php:64
+msgid "Require Minimum Password Length: "
+msgstr "Максимальная длина Пароля"
+
+#: views/ura-xwrd-strength-options-view.php:65
+#: views/ura-xwrd-strength-options-view.php:87
+msgid ""
+"Select this option to require an Upper Case Letter in the custom Password "
+"Strength Requirements"
+msgstr ""
+"Выберите этот параметр, чтобы требовать письмо верхнему регистру в силе "
+"требования пользовательских паролей"
+
+#: views/ura-xwrd-strength-options-view.php:68
+#: views/ura-xwrd-strength-options-view.php:90
+msgid ""
+"Select this option NOT to require an Upper Case Letter in the custom Password "
+"Strength Requirements"
+msgstr ""
+"Выберите этот параметр, чтобы не требовать буква верхнего регистра в силе "
+"требования пользовательских паролей"
+
+#: views/ura-xwrd-strength-options-view.php:72
+msgid "Password Minimum Length: "
+msgstr "Пароль Минимальная длина:"
+
+#: views/ura-xwrd-strength-options-view.php:72
+msgid "Select the minimum length for the password"
+msgstr "Выберите минимальную длину пароля"
+
+#: views/ura-xwrd-strength-options-view.php:86
+msgid "Require Upper Case Letter: "
+msgstr "Требовать буква верхнего регистра:"
+
+#: views/ura-xwrd-strength-options-view.php:95
+msgid "Require Lower Case Letter: "
+msgstr "Требовать строчной буквы:"
+
+#: views/ura-xwrd-strength-options-view.php:96
+msgid ""
+"Select this option to require a Lower Case Letter in the password strength "
+"requirements"
+msgstr ""
+"Выберите этот параметр, чтобы требовать Письмо нижнего регистра в требованиях "
+"к надежности пароля"
+
+#: views/ura-xwrd-strength-options-view.php:99
+msgid ""
+"Select this option NOT to require a Lower Case Letter in the password "
+"strength requirements"
+msgstr ""
+"Выберите этот параметр, чтобы не требовать строчной буквы в требованиях к "
+"надежности пароля"
+
+#: views/ura-xwrd-strength-options-view.php:106
+msgid "Require Number: "
+msgstr "Необходим номер:"
+
+#: views/ura-xwrd-strength-options-view.php:107
+msgid ""
+"Select this option to require a Number in the custom Password Strength "
+"Requirements"
+msgstr ""
+"Выберите этот параметр, чтобы требовать номер в силе требования "
+"пользовательских паролей"
+
+#: views/ura-xwrd-strength-options-view.php:110
+msgid ""
+"Select this option NOT to require a Number in the custom Password Strength "
+"Requirements"
+msgstr ""
+"Выберите этот параметр не требовать Количество в силе требования "
+"пользовательских паролей"
+
+#: views/ura-xwrd-strength-options-view.php:115
+msgid "Require Special Character: "
+msgstr "Требовать специальный символ:"
+
+#: views/ura-xwrd-strength-options-view.php:116
+msgid "Select this option to require a Special Character"
+msgstr "Выберите этот параметр, чтобы требовать специального символа"
+
+#: views/ura-xwrd-strength-options-view.php:116
+msgid " in the password strength requirements"
+msgstr "в требованиях к надежности пароля"
+
+#: views/ura-xwrd-strength-options-view.php:119
+msgid ""
+"Select this option to NOT require an Lower Case Letter in the password "
+"strength requirements"
+msgstr ""
+"Выберите этот параметр, чтобы не требовать письмо нижнего регистра в "
+"требованиях к надежности пароля"
+
+#: views/ura-xwrd-strength-options-view.php:126
+msgid "Update Password Strength Requirement Options"
+msgstr "Варианты Требование Обновление надежности пароля"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://creative-software-design-solutions.com/wordpress-user-registration-"
+"aide-force-add-new-user-fields-on-registration-form/"
+msgstr ""
+"http://creative-software-design-solutions.com/wordpress-user-registration-"
+"aide-force-add-new-user-fields-on-registration-form/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Customize the entire user management experience to your own liking!. Adds "
+"additional fields to registration form and profile for better user management "
+"and control. Customize the Default WordPress Registration Form & Login Page "
+"CSS & Messaging.  It also helps reduce unwanted spam registrations. Has anti-"
+"spam built in, customize default WordPress login/registration forms both in "
+"design and messaging, adds agreement policy and link to policy to "
+"registration form for members, can create custom redirects after login and "
+"registration, short code for password change, custom password strength "
+"options, and password update management. Can limit amount of time between "
+"password changes and the number of times before duplicate passwords allowed, "
+"set minimum password length and also require special characters, upper and "
+"lower case letters and numbers so your site is made more secure."
+msgstr ""
+"Добавляет дополнительные поля регистрационной формы и профиля для лучшего "
+"управления пользователями и понимания. Это также помогает уменьшить "
+"нежелательные регистраций спам. Имеет анти-спам встроенная, настроить по "
+"умолчанию WordPress Войти / регистрационные формы как в дизайне и обмена "
+"сообщениями, добавляет политику соглашения и ссылка на политику в форме "
+"регистрации для членов, могут создавать собственные перенаправления после "
+"авторизации и регистрации, короткий код для смены пароля, пользовательского "
+"пароля параметры прочности и управление обновлениями пароля. Можно ограничить "
+"количество времени между изменениями пароля и количество раз до дублирующих "
+"паролей разрешено, установить минимальную длину пароля, а также требуют "
+"специальных символов, верхний и нижний регистр букв и цифр, чтобы ваш сайт "
+"стал более безопасным."
+
+#. Author of the plugin/theme
+msgid "Brian Novotny"
+msgstr "Брайан Новотны"
+
+#. Author URI of the plugin/theme
+msgid "http://creative-software-design-solutions.com/"
+msgstr "http://creative-software-design-solutions.com/"
+
+#~ msgid "Support Options updated successfully."
+#~ msgstr "Варианты поддержки успешно обновлены."
+
+#~ msgid "Invalid Security Check, Please Try Again!"
+#~ msgstr "Invalid Проверка безопасности, пожалуйста, попробуйте еще раз!"
+
+#~ msgid "New Field Title: "
+#~ msgstr "Заголовок поля"
+
+#~ msgid "Enter your new field option key here"
+#~ msgstr "Введите новый ключ опции поле здесь"
+
+#~ msgid "Enter your new field option name here"
+#~ msgstr "Введите новое имя параметра поле здесь"
+
+#~ msgid ""
+#~ "User Registration Aide: Force New User Registration Fields Administration "
+#~ "Page"
+#~ msgstr ""
+#~ "Регистрация пользователя Памятная: Force Регистрация нового пользователя "
+#~ "Поля Администрация страницы"
+
+#~ msgid ""
+#~ "Choose to display Creative Software Design Solutions Dashboard Widget Here:"
+#~ msgstr ""
+#~ "Выберите для отображения Creative Software Design Solutions Dashboard "
+#~ "Widget здесь:"
+
+#~ msgid ""
+#~ "The height size in px format here for your new logo is for your register/"
+#~ "login page -- ( 110px )"
+#~ msgstr ""
+#~ "Размер Высота в формате рх здесь для вашего нового логотипа для страницы "
+#~ "регистрации / авторизации - (110px)"
+
+#~ msgid "Add Additional Fields to Registration Form"
+#~ msgstr "Добавить дополнительные поля регистрационной форме"
+
+#~ msgid ""
+#~ "By default, Wordpress will only require an email address and username to "
+#~ "register an account. Here, you can select additional fields required for "
+#~ "registration."
+#~ msgstr ""
+#~ "По умолчанию Wordpress потребуется только адрес электронной почты и имя "
+#~ "пользователя для регистрации учетной записи. Здесь вы можете выбрать "
+#~ "дополнительные поля, необходимые для регистрации."
+
+#~ msgid ""
+#~ "Note: Any fields selected here will be required fields on the registration "
+#~ "form, however you can add fields in the Add New Field options which will "
+#~ "be added to the profile but not to the registration form unless you select "
+#~ "them here."
+#~ msgstr ""
+#~ "Примечание: Все поля, выбранные здесь будут обязательные поля в "
+#~ "регистрационной форме, однако вы можете добавлять поля в опции Добавить "
+#~ "новое поле, которое будет добавлено к профилю, но не в форме регистрации, "
+#~ "если вы не выбрать их здесь."
+
+#~ msgid "Update Options"
+#~ msgstr "Обновить параметры"
+
+#~ msgid "Field Key Name: address - Field Name: Address"
+#~ msgstr "Поле Имя ключа: адрес - Имя поля: Адрес"
+
+#~ msgid "Field Key Name: address_2 - Field Name: Address 2"
+#~ msgstr "Поле Имя ключа: address_2 - Имя поля: Адрес 2"
+
+#~ msgid "Field Key Name: "
+#~ msgstr "Имя поля ключа"
+
+#~ msgid "Field Name: "
+#~ msgstr "Имя поля"
+
+#~ msgid "Add Field"
+#~ msgstr "Добавить поле"
+
+#~ msgid "Select Fields to make Optional ( Not Required ) for Registration Form"
+#~ msgstr "Выберите поля факультативные (не обязательно) для регистрации формы"
+
+#~ msgid ""
+#~ "Select Fields here that will be optional for the registration form, that "
+#~ "is they are not required to be filled in by the user when they register."
+#~ msgstr ""
+#~ "Выберите поля здесь будет необязательным для регистрационной формы, то "
+#~ "есть они не должны быть заполнены пользователем при регистрации."
+
+#~ msgid ""
+#~ "Note: Any fields selected here will NOT be a required field on the "
+#~ "registration form but will be on the registration form as optional"
+#~ msgstr ""
+#~ "Примечание: Любые поля, выбранные здесь не будет обязательным полем в "
+#~ "регистрационной форме, но будет в регистрационной форме, как по желанию"
+
+#~ msgid "Select Fields that are optional on Registration Form:"
+#~ msgstr ""
+#~ "Выберите поля, которые являются обязательными на регистрационной форме:"
+
+#~ msgid ""
+#~ "You can select as many fields here as you want, just hold down the control "
+#~ "key while selecting multiple fields. These fields will not be required and "
+#~ "are optional on the registration form!"
+#~ msgstr ""
+#~ "Вы можете выбрать столько полей здесь, как вы хотите, просто удерживая "
+#~ "нажатой клавишу управления при выборе нескольких полей. Эти поля не "
+#~ "требуется и не являются обязательными в регистрационной форме!"
+
+#~ msgid "Select no Optional Fields"
+#~ msgstr "Выберите Нет, необязательные поля"
+
+#~ msgid " - - - - - "
+#~ msgstr "- - - - -"
+
+#~ msgid "Update Optional Fields"
+#~ msgstr "Обновление Дополнительные поля"
+
+#~ msgid ""
+#~ "Select this option to use the * ( Asterisk ) to Designate a Required Field "
+#~ "on the Registration Form"
+#~ msgstr ""
+#~ "Выберите этот параметр, чтобы использовать звездочки (*) назначить "
+#~ "обязательные для заполнения поля на регистрационную форму"
+
+#~ msgid ""
+#~ "Select this option not to use the * ( Asterisk ) to Designate a Required "
+#~ "Field on the Registration Form"
+#~ msgstr ""
+#~ "Выберите этот параметр, чтобы не использовать звездочки (*) назначить "
+#~ "обязательные для заполнения поля на регистрационную форму"
+
+#~ msgid "Update Asterisk Option"
+#~ msgstr "Обновление Asterisk Option"
+
+#~ msgid "Plugin Support and Configuration Information:"
+#~ msgstr "Поддержка подключаемых модулей и информация о конфигурации:"
+
+#~ msgid ""
+#~ "Enter the new size of shadow for login/registration page links in PX for "
+#~ "your site! Example: 2px"
+#~ msgstr ""
+#~ "Введите новый размер тени для Логин / регистрация ссылок на страницы в PX "
+#~ "для вашего сайта! Пример: 2px"
+
+#~ msgid "Add Your Own Message to Bottom of Registration Form:"
+#~ msgstr "Добавить собственное сообщение к низу регистрационной формы:"
+
+#~ msgid "Add Your Own Custom Message to Top of Login & Registration Forms:"
+#~ msgstr ""
+#~ "Добавить свой собственный сообщение для Наверх Вход и регистрационные "
+#~ "формы:"
+
+#~ msgid "Change Custom Settings Here:"
+#~ msgstr "Изменение пользовательских настроек здесь:"
+
+#~ msgid "Registration Form Optional Fields Successfully Updated!"
+#~ msgstr "Форма регистрации Дополнительные поля успешно обновлен!"
+
+#~ msgid ""
+#~ "No Registration Form Fields Exist, Select Some Registration Form Fields "
+#~ "First!"
+#~ msgstr ""
+#~ "Нет Форма регистрации поля существуют, не выбрать некоторые поля формы "
+#~ "регистрации Первый!"
+
+#~ msgid ""
+#~ "No Optional Registration Form Fields Selected, Cannot Add Optional Field!"
+#~ msgstr ""
+#~ "Нет Необязательно Форма регистрации полей, выбранных, не удается добавить "
+#~ "необязательное поле!"
+
+#~ msgid "Asterisk Options Updated Successfully!"
+#~ msgstr "Звездочкой Параметры успешно обновлены!"
+
+#~ msgid " New Field Key & New Field Name "
+#~ msgstr "Новое поле Key & New Имя поля"
+
+#~ msgid " New Field Key "
+#~ msgstr "Поле Ключа"
+
+#~ msgid " New Field Name "
+#~ msgstr "Имя поля"
+
+#~ msgid ""
+#~ "***Add New Field Options not updated successfully. Missing both fields "
+#~ "for: "
+#~ msgstr ""
+#~ "*** Дополнительные возможности новое поле не обновлено. Отсутствующие оба "
+#~ "поля для:"
+
+#~ msgid ""
+#~ "***Add New Field Options not updated successfully. Missing following field "
+#~ "for: "
+#~ msgstr ""
+#~ "*** Дополнительные возможности новое поле не обновлено. Отсутствует "
+#~ "следующее поле для:"
+
+#~ msgid ""
+#~ "***Add New Field Options not updated successfully. Following field already "
+#~ "exists: "
+#~ msgstr ""
+#~ "*** Дополнительные возможности новое поле не обновлено. Следующее поле уже "
+#~ "существует:"
+
+#~ msgid "Add New Field "
+#~ msgstr "Добавить новое поле"
+
+#~ msgid " option updated successfully!"
+#~ msgstr "Опция успешно обновлен!"
+
+#~ msgid "***Cannot add duplicate fields, "
+#~ msgstr "*** Невозможно добавить повторяющиеся поля,"
+
+#~ msgid " is already included in the extra fields!***"
+#~ msgstr "уже включена в дополнительные поля! ***"
+
+#~ msgid " Successfully Deleted!"
+#~ msgstr "Успешно удалено!"
+
+#~ msgid "New Field Order Options updated successfully."
+#~ msgstr "Новое поле Варианты для заказа успешно обновлен."
+
+#~ msgid ""
+#~ "***Error Updating New Field Order Options, two or more fields have the "
+#~ "same order!***"
+#~ msgstr ""
+#~ "*** Ошибка Обновление новое поле Варианты для заказа, два или несколько "
+#~ "полей имеют одинаковый порядок! ***"
+
+#~ msgid " - - Duplicate Name Entered, Please Re-Enter a Different Name! & "
+#~ msgstr "- - Дублированный Введенное имя, пожалуйста, введите другое имя! &"
+
+#~ msgid " Name Successfully changed! & "
+#~ msgstr "Имя Успешно изменено! &"
+
+#~ msgid " Name Not Entered & "
+#~ msgstr "Имя Не представлено &"
+
+#~ msgid ""
+#~ "Delete or Change Field Order or Change Field Display Title for New Fields "
+#~ "Here:"
+#~ msgstr ""
+#~ "Удалить или Изменить поле заказа или Изменить поле дисплея Название для "
+#~ "новых полей здесь:"
+
+#~ msgid "Edit Additional Fields for Profile &  Registration Form: Delete Field"
+#~ msgstr ""
+#~ "Редактирование дополнительных полей для профиля и регистрационную форму: "
+#~ "Удалить поле"
+
+#~ msgid ""
+#~ "Here you can select the new additional fields you added that you want to "
+#~ "delete."
+#~ msgstr ""
+#~ "Здесь вы можете выбрать новые дополнительные поля, которые вы добавили, "
+#~ "что вы хотите удалить."
+
+#~ msgid ""
+#~ "New Password Strength Requirement Options empty, not updated successfully."
+#~ msgstr ""
+#~ "Новые параметры надежности пароля Требование пустой, не успешно обновлена."
+
+#~ msgid "Choose to add a special message to bottom of registration form: "
+#~ msgstr ""
+#~ "Выберите, чтобы добавить специальное сообщение для нижней части "
+#~ "регистрационной формы:"
+
+#~ msgid "Enter new Registration form message below: "
+#~ msgstr "Введите новый бланк регистрации ниже сообщение:"
+
+#~ msgid "Update Registration Form Message Options"
+#~ msgstr "Параметры сообщения Регистрационная форма обновления"
+
+#~ msgid "Update Top Registration Form Message Options"
+#~ msgstr "Обновление Top Параметры сообщения Регистрационная форма"
+
+#~ msgid "Failed Security Check"
+#~ msgstr "Failed Nonce Security Check"
+
+#~ msgid " <strong>ERROR</strong>: You must agree to the terms and conditions!"
+#~ msgstr "<strong>ОШИБКА:</strong> Вы должны согласиться с условиями!"
