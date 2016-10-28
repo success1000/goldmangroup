@@ -214,7 +214,8 @@ textarea, select {
 
 }
 
-input, select { max-width: 300px !important; min-width: 50px !important; }
+input{ max-width: 300px !important; min-width: 50px !important; }
+select { max-width: 300px !important; min-width: 200px !important; }
 
 button,
 input {
