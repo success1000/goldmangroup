@@ -80,7 +80,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', true);
 
 /* Multisite */
-define('MULTISITE', false);
+define('MULTISITE', true);
 define('SUBDOMAIN_INSTALL', false);
 define('DOMAIN_CURRENT_SITE', 'goldman.dev');
 
